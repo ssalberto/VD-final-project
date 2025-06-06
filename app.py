@@ -43,9 +43,6 @@ def display_map_page():
     inverse_map = {k: v for v, k in STATE_ABBR_TO_EN_NAME.items()}  # Reverse mapping for state names to abbreviations
     data['STATE_ABB'] = data['state'].map(inverse_map)  # Map state names to abbreviations
 
-    if data.empty:
-        st.warning(f"{UI_LABELS_ES['No data available for the selected year']}: {selected_year_displayed}. {UI_LABELS_ES['Please select a different year']}.")
-        return
 
     fig = px.choropleth(
         data,
@@ -76,13 +73,6 @@ def display_visualizations_page():
     
     all_states_es = sorted(time_series['state'].unique().tolist())
     all_years = sorted(time_series['run_start_time'].dt.year.unique().tolist())
-    
-    if not all_states_es:
-        st.warning(f"{UI_LABELS_ES['No states found in the data']}. {UI_LABELS_ES['Please check the data sources']}.")
-        return
-    if not all_years:
-        st.warning(f"{UI_LABELS_ES['No year data found']}. {UI_LABELS_ES['Please check the data sources']}.")
-        return
 
     selected_state_es = st.selectbox("Selecciona el estado", options=all_states_es, index=0 if all_states_es else -1)
     
@@ -119,10 +109,6 @@ def display_visualizations_page():
             fig_outages = px.line(daily_outages, x="Fecha", y="Total de usuarios sin luz", 
                                     title=f"Total de usuarios con cortes en {selected_state_es} ({start_year}-{end_year})")
             st.plotly_chart(fig_outages, use_container_width=True)
-        else:
-            st.info(f"{UI_LABELS_ES['No outage data to display for']} {selected_state_es} {UI_LABELS_ES['between']} {start_year} {UI_LABELS_ES['and']} {end_year} {UI_LABELS_ES['after daily aggregation']}.")
-    else:
-        st.info(f"{UI_LABELS_ES['No outage data available for']} {selected_state_es} {UI_LABELS_ES['between']} {start_year} {UI_LABELS_ES['and']} {end_year}.")
 
 
 
