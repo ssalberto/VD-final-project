@@ -1,0 +1,2896 @@
+county,state,fips_code,customers_out
+Abbeville,South Carolina,45001,377260.0
+Acadia,Louisiana,22001,483762.0
+Accomack,Virginia,51001,51874.0
+Ada,Idaho,16001,679044.0
+Adair,Iowa,19001,42764.0
+Adair,Kentucky,21001,13212.0
+Adair,Missouri,29001,37315.0
+Adair,Oklahoma,40001,157086.0
+Adams,Colorado,8001,2040912.0
+Adams,Idaho,16003,119213.0
+Adams,Illinois,17001,80657.0
+Adams,Indiana,18001,125478.0
+Adams,Iowa,19003,70381.0
+Adams,Mississippi,28001,473511.0
+Adams,North Dakota,38001,3547.0
+Adams,Ohio,39001,582900.0
+Adams,Pennsylvania,42001,478338.0
+Adams,Washington,53001,0.0
+Adams,Wisconsin,55001,393374.0
+Addison,Vermont,50001,447578.0
+Aiken,South Carolina,45003,1361214.0
+Aitkin,Minnesota,27001,325505.0
+Alachua,Florida,12001,1320935.0
+Alamance,North Carolina,37001,5981044.0
+Alameda,California,6001,2874634.0
+Alamosa,Colorado,8003,72946.0
+Albany,New York,36001,2872999.0
+Albany,Wyoming,56001,217513.0
+Albemarle,Virginia,51003,6829047.0
+Alcona,Michigan,26001,462543.0
+Alexander,Illinois,17003,43101.0
+Alexander,North Carolina,37003,265886.0
+Alexandria,Virginia,51510,2335815.0
+Alfalfa,Oklahoma,40003,27028.0
+Alger,Michigan,26003,51973.0
+Allamakee,Iowa,19005,108135.0
+Allegan,Michigan,26005,1629924.0
+Allegany,Maryland,24001,918671.0
+Allegany,New York,36003,1986930.0
+Alleghany,North Carolina,37005,248646.0
+Alleghany,Virginia,51005,314596.0
+Allegheny,Pennsylvania,42003,8464138.0
+Allen,Indiana,18003,1297608.0
+Allen,Kansas,20001,9980.0
+Allen,Kentucky,21003,166331.0
+Allen,Louisiana,22003,515479.0
+Allen,Ohio,39003,367545.0
+Allendale,South Carolina,45005,103408.0
+Alpena,Michigan,26007,2207.0
+Alpine,California,6003,3310.0
+Amador,California,6005,1456080.0
+Amelia,Virginia,51007,2250509.0
+Amherst,Virginia,51009,2509467.0
+Amite,Mississippi,28005,445613.0
+Anchorage,Alaska,2020,1199941.0
+Anderson,Kansas,20003,28270.0
+Anderson,Kentucky,21005,350251.0
+Anderson,South Carolina,45007,2486593.0
+Anderson,Tennessee,47001,116033.0
+Anderson,Texas,48001,334038.0
+Andrew,Missouri,29003,106219.0
+Andrews,Texas,48003,185838.0
+Androscoggin,Maine,23001,1574034.0
+Angelina,Texas,48005,972368.0
+Anne Arundel,Maryland,24003,4351077.0
+Anoka,Minnesota,27003,271200.0
+Anson,North Carolina,37007,1430101.0
+Antelope,Nebraska,31003,88.0
+Antrim,Michigan,26009,700497.0
+Apache,Arizona,4001,50025.0
+Appanoose,Iowa,19007,66013.0
+Appling,Georgia,13001,249480.0
+Appomattox,Virginia,51011,837309.0
+Aransas,Texas,48007,471843.0
+Arapahoe,Colorado,8005,2112733.0
+Archer,Texas,48009,247647.0
+Archuleta,Colorado,8007,83431.0
+Arenac,Michigan,26011,1844553.0
+Arkansas,Arkansas,5001,763305.0
+Arlington,Virginia,51013,2623867.0
+Armstrong,Pennsylvania,42005,1571435.0
+Armstrong,Texas,48011,14233.0
+Aroostook,Maine,23003,1311235.0
+Ascension,Louisiana,22005,836779.0
+Ashe,North Carolina,37009,557961.0
+Ashland,Ohio,39005,348765.0
+Ashland,Wisconsin,55003,40522.0
+Ashley,Arkansas,5003,865274.0
+Ashtabula,Ohio,39007,2637689.0
+Asotin,Washington,53003,117699.0
+Assumption,Louisiana,22007,241913.0
+Atascosa,Texas,48013,246426.0
+Atchison,Kansas,20005,166939.0
+Atchison,Missouri,29005,0.0
+Athens,Ohio,39009,1104363.0
+Atkinson,Georgia,13003,118793.0
+Atlantic,New Jersey,34001,2160549.0
+Atoka,Oklahoma,40005,121738.0
+Attala,Mississippi,28007,335516.0
+Audrain,Missouri,29007,17571.0
+Audubon,Iowa,19009,34531.0
+Auglaize,Ohio,39011,31419.0
+Augusta,Virginia,51015,3416692.0
+Austin,Texas,48015,163185.0
+Autauga,Alabama,1001,396756.0
+Avery,North Carolina,37011,155182.0
+Avoyelles,Louisiana,22009,790589.0
+Baca,Colorado,8009,1605.0
+Bacon,Georgia,13005,60114.0
+Bailey,Texas,48017,8619.0
+Baker,Florida,12003,278406.0
+Baker,Georgia,13007,172194.0
+Baker,Oregon,41001,90744.0
+Baldwin,Alabama,1003,1143649.0
+Baldwin,Georgia,13009,570211.0
+Ballard,Kentucky,21007,196504.0
+Baltimore,Maryland,24005,9315523.0
+Baltimore,Maryland,24510,4913017.0
+Bamberg,South Carolina,45009,213758.0
+Bandera,Texas,48019,314.0
+Banks,Georgia,13011,123230.0
+Bannock,Idaho,16005,236509.0
+Baraga,Michigan,26013,53010.0
+Barber,Kansas,20007,2323.0
+Barbour,Alabama,1005,607936.0
+Barbour,West Virginia,54001,299264.0
+Barnes,North Dakota,38003,146.0
+Barnstable,Massachusetts,25001,32401136.0
+Barnwell,South Carolina,45011,269879.0
+Barren,Kentucky,21009,105233.0
+Barron,Wisconsin,55005,67490.0
+Barrow,Georgia,13013,212112.0
+Barry,Michigan,26015,609122.0
+Barry,Missouri,29009,30280.0
+Bartholomew,Indiana,18005,1132714.0
+Barton,Kansas,20009,106722.0
+Barton,Missouri,29011,27215.0
+Bartow,Georgia,13015,390217.0
+Bastrop,Texas,48021,290156.0
+Bates,Missouri,29013,52779.0
+Bath,Kentucky,21011,99545.0
+Bath,Virginia,51017,2118.0
+Baxter,Arkansas,5005,106128.0
+Bay,Florida,12005,75272804.0
+Bay,Michigan,26017,584804.0
+Bayfield,Wisconsin,55007,43449.0
+Baylor,Texas,48023,7008.0
+Bear Lake,Idaho,16007,27633.0
+Beaufort,North Carolina,37013,3205604.0
+Beaufort,South Carolina,45013,1191334.0
+Beauregard,Louisiana,22011,710567.0
+Beaver,Oklahoma,40007,133096.0
+Beaver,Pennsylvania,42007,1604241.0
+Beaver,Utah,49001,52666.0
+Becker,Minnesota,27005,66895.0
+Beckham,Oklahoma,40009,309596.0
+Bedford,Pennsylvania,42009,523643.0
+Bedford,Tennessee,47003,138706.0
+Bedford,Virginia,51019,2881481.0
+Bee,Texas,48025,204351.0
+Belknap,New Hampshire,33001,697916.0
+Bell,Kentucky,21013,221944.0
+Bell,Texas,48027,1184895.0
+Belmont,Ohio,39013,749348.0
+Beltrami,Minnesota,27007,646960.0
+Ben Hill,Georgia,13017,736978.0
+Benewah,Idaho,16009,455722.0
+Bennington,Vermont,50003,839423.0
+Bent,Colorado,8011,0.0
+Benton,Arkansas,5007,215152.0
+Benton,Indiana,18007,56787.0
+Benton,Iowa,19011,69694.0
+Benton,Minnesota,27009,91146.0
+Benton,Mississippi,28009,926.0
+Benton,Missouri,29015,505847.0
+Benton,Oregon,41003,177840.0
+Benton,Washington,53005,1430.0
+Benzie,Michigan,26019,375035.0
+Bergen,New Jersey,34003,8257788.0
+Berkeley,South Carolina,45015,1052623.0
+Berkeley,West Virginia,54003,358047.0
+Berks,Pennsylvania,42011,3586137.0
+Berkshire,Massachusetts,25003,714983.0
+Bernalillo,New Mexico,35001,2447364.0
+Berrien,Georgia,13019,367878.0
+Berrien,Michigan,26021,4596852.0
+Bertie,North Carolina,37015,220770.0
+Bexar,Texas,48029,3587480.0
+Bibb,Alabama,1007,482342.0
+Bibb,Georgia,13021,1351735.0
+Bienville,Louisiana,22013,551390.0
+Big Horn,Wyoming,56003,68427.0
+Bingham,Idaho,16011,263486.0
+Black Hawk,Iowa,19013,213891.0
+Blackford,Indiana,18009,98667.0
+Bladen,North Carolina,37017,4042144.0
+Blaine,Idaho,16013,104910.0
+Blaine,Oklahoma,40011,75431.0
+Blair,Pennsylvania,42013,558050.0
+Blanco,Texas,48031,43295.0
+Bland,Virginia,51021,1171295.0
+Bleckley,Georgia,13023,385949.0
+Blount,Alabama,1009,776557.0
+Blount,Tennessee,47009,347817.0
+Blue Earth,Minnesota,27013,128409.0
+Boise,Idaho,16015,517465.0
+Bolivar,Mississippi,28011,409039.0
+Bollinger,Missouri,29017,123.0
+Bond,Illinois,17005,83973.0
+Bonner,Idaho,16017,565406.0
+Bonneville,Idaho,16019,264428.0
+Boone,Arkansas,5009,324187.0
+Boone,Illinois,17007,142399.0
+Boone,Indiana,18011,214340.0
+Boone,Iowa,19015,67008.0
+Boone,Kentucky,21015,852794.0
+Boone,Missouri,29019,241404.0
+Boone,West Virginia,54005,1193193.0
+Borden,Texas,48033,12732.0
+Bosque,Texas,48035,131937.0
+Bossier,Louisiana,22015,2672229.0
+Botetourt,Virginia,51023,1056288.0
+Bottineau,North Dakota,38009,0.0
+Boulder,Colorado,8013,1020228.0
+Boundary,Idaho,16021,100262.0
+Bourbon,Kansas,20011,146862.0
+Bourbon,Kentucky,21017,203452.0
+Bowie,Texas,48037,1283379.0
+Bowman,North Dakota,38011,7050.0
+Box Butte,Nebraska,31013,0.0
+Box Elder,Utah,49003,224491.0
+Boyd,Kentucky,21019,523991.0
+Boyd,Nebraska,31015,54164.0
+Boyle,Kentucky,21021,52188.0
+Bracken,Kentucky,21023,74852.0
+Bradford,Florida,12007,159112.0
+Bradford,Pennsylvania,42015,1021174.0
+Bradley,Arkansas,5011,70325.0
+Branch,Michigan,26023,431801.0
+Brantley,Georgia,13025,128466.0
+Braxton,West Virginia,54007,447809.0
+Brazoria,Texas,48039,1591143.0
+Brazos,Texas,48041,300249.0
+Breathitt,Kentucky,21025,211258.0
+Breckinridge,Kentucky,21027,3054.0
+Bremer,Iowa,19017,27701.0
+Brevard,Florida,12009,1862532.0
+Brewster,Texas,48043,405530.0
+Briscoe,Texas,48045,25442.0
+Bristol,Massachusetts,25005,14086660.0
+Bristol,Rhode Island,44001,2448939.0
+Bronx,New York,36005,1747754.0
+Brooke,West Virginia,54009,269910.0
+Brookings,South Dakota,46011,48440.0
+Brooks,Georgia,13027,59432.0
+Brooks,Texas,48047,104250.0
+Broome,New York,36007,1334974.0
+Broomfield,Colorado,8014,270803.0
+Broward,Florida,12011,7079623.0
+Brown,Illinois,17009,3906.0
+Brown,Indiana,18013,572066.0
+Brown,Kansas,20013,29405.0
+Brown,Minnesota,27015,1365.0
+Brown,Nebraska,31017,4302.0
+Brown,Ohio,39015,712214.0
+Brown,South Dakota,46013,0.0
+Brown,Texas,48049,355404.0
+Brown,Wisconsin,55009,423020.0
+Brunswick,North Carolina,37019,24373869.0
+Brunswick,Virginia,51025,1360841.0
+Bryan,Georgia,13029,102450.0
+Bryan,Oklahoma,40013,569594.0
+Buchanan,Iowa,19019,45199.0
+Buchanan,Missouri,29021,615340.0
+Buchanan,Virginia,51027,909066.0
+Buckingham,Virginia,51029,1272904.0
+Bucks,Pennsylvania,42017,21463577.0
+Buena Vista,Iowa,19021,31736.0
+Buena Vista,Virginia,51530,28876.0
+Buffalo,Nebraska,31019,17489.0
+Buffalo,Wisconsin,55011,55478.0
+Bullitt,Kentucky,21029,921380.0
+Bulloch,Georgia,13031,819084.0
+Bullock,Alabama,1011,173143.0
+Buncombe,North Carolina,37021,5218814.0
+Bureau,Illinois,17011,396077.0
+Burke,Georgia,13033,267853.0
+Burke,North Carolina,37023,1006475.0
+Burke,North Dakota,38013,17257.0
+Burleigh,North Dakota,38015,74403.0
+Burleson,Texas,48051,125206.0
+Burlington,New Jersey,34005,8293993.0
+Burnet,Texas,48053,109150.0
+Burnett,Wisconsin,55013,30361.0
+Burt,Nebraska,31021,19744.0
+Butler,Alabama,1013,447691.0
+Butler,Iowa,19023,88379.0
+Butler,Kansas,20015,218852.0
+Butler,Kentucky,21031,101965.0
+Butler,Missouri,29023,0.0
+Butler,Ohio,39017,1931573.0
+Butler,Pennsylvania,42019,7798828.0
+Butte,California,6007,55962088.0
+Butte,Idaho,16023,5273.0
+Butte,South Dakota,46019,21864.0
+Butts,Georgia,13035,88519.0
+Cabarrus,North Carolina,37025,1620105.0
+Cabell,West Virginia,54011,2701535.0
+Cache,Utah,49005,179473.0
+Caddo,Louisiana,22017,4087197.0
+Caddo,Oklahoma,40015,343654.0
+Calaveras,California,6009,643639.0
+Calcasieu,Louisiana,22019,1486909.0
+Caldwell,Kentucky,21033,48083.0
+Caldwell,Louisiana,22021,139289.0
+Caldwell,Missouri,29025,23505.0
+Caldwell,North Carolina,37027,1777551.0
+Caldwell,Texas,48055,56518.0
+Caledonia,Vermont,50005,531100.0
+Calhoun,Alabama,1015,1843102.0
+Calhoun,Arkansas,5013,19432.0
+Calhoun,Florida,12013,3382782.0
+Calhoun,Georgia,13037,1585065.0
+Calhoun,Illinois,17013,45203.0
+Calhoun,Iowa,19025,130094.0
+Calhoun,Michigan,26025,1227459.0
+Calhoun,Mississippi,28013,765.0
+Calhoun,South Carolina,45017,146231.0
+Calhoun,Texas,48057,145130.0
+Calhoun,West Virginia,54013,293609.0
+Callahan,Texas,48059,113198.0
+Callaway,Missouri,29027,17201.0
+Calloway,Kentucky,21035,255332.0
+Calumet,Wisconsin,55015,92584.0
+Calvert,Maryland,24009,1029697.0
+Camas,Idaho,16025,2340.0
+Cambria,Pennsylvania,42021,1089484.0
+Camden,Georgia,13039,601938.0
+Camden,Missouri,29029,225208.0
+Camden,New Jersey,34007,3568460.0
+Camden,North Carolina,37029,60972.0
+Cameron,Louisiana,22023,48564.0
+Cameron,Pennsylvania,42023,292793.0
+Cameron,Texas,48061,2278010.0
+Camp,Texas,48063,45366.0
+Campbell,Kentucky,21037,625095.0
+Campbell,South Dakota,46021,104.0
+Campbell,Tennessee,47013,19110.0
+Campbell,Virginia,51031,2320734.0
+Campbell,Wyoming,56005,644.0
+Canadian,Oklahoma,40017,726485.0
+Candler,Georgia,13043,291220.0
+Cannon,Tennessee,47015,50121.0
+Canyon,Idaho,16027,363267.0
+Cape Girardeau,Missouri,29031,481575.0
+Cape May,New Jersey,34009,792568.0
+Carbon,Montana,30009,17.0
+Carbon,Pennsylvania,42025,1317210.0
+Carbon,Utah,49007,90560.0
+Carbon,Wyoming,56007,40885.0
+Caribou,Idaho,16029,53143.0
+Carlisle,Kentucky,21039,96046.0
+Carlton,Minnesota,27017,129924.0
+Caroline,Maryland,24011,60634.0
+Caroline,Virginia,51033,837018.0
+Carroll,Arkansas,5015,36360.0
+Carroll,Georgia,13045,491579.0
+Carroll,Illinois,17015,66468.0
+Carroll,Indiana,18015,100860.0
+Carroll,Iowa,19027,71934.0
+Carroll,Kentucky,21041,98115.0
+Carroll,Maryland,24013,1153632.0
+Carroll,Mississippi,28015,70280.0
+Carroll,Missouri,29033,92282.0
+Carroll,New Hampshire,33003,1294445.0
+Carroll,Ohio,39019,401364.0
+Carroll,Tennessee,47017,76.0
+Carroll,Virginia,51035,3126742.0
+Carson,Texas,48065,96059.0
+Carson City,Nevada,32510,176155.0
+Carter,Kentucky,21043,220619.0
+Carter,Montana,30011,132.0
+Carter,Oklahoma,40019,203286.0
+Carteret,North Carolina,37031,13587298.0
+Carver,Minnesota,27019,378808.0
+Casey,Kentucky,21045,1610.0
+Cass,Illinois,17017,23372.0
+Cass,Indiana,18017,52684.0
+Cass,Iowa,19029,23357.0
+Cass,Michigan,26027,1023547.0
+Cass,Minnesota,27021,498230.0
+Cass,Missouri,29037,315006.0
+Cass,Nebraska,31025,184547.0
+Cass,North Dakota,38017,201924.0
+Cass,Texas,48067,601447.0
+Cassia,Idaho,16031,69417.0
+Castro,Texas,48069,19999.0
+Caswell,North Carolina,37033,2932946.0
+Catahoula,Louisiana,22025,319973.0
+Catawba,North Carolina,37035,1294913.0
+Catoosa,Georgia,13047,311200.0
+Catron,New Mexico,35003,162843.0
+Cattaraugus,New York,36009,2578998.0
+Cayuga,New York,36011,706834.0
+Cecil,Maryland,24015,1239447.0
+Cedar,Iowa,19031,74089.0
+Cedar,Missouri,29039,5717.0
+Cedar,Nebraska,31027,64.0
+Centre,Pennsylvania,42027,662659.0
+Cerro Gordo,Iowa,19033,491519.0
+Chaffee,Colorado,8015,48171.0
+Chambers,Alabama,1017,184011.0
+Chambers,Texas,48071,567443.0
+Champaign,Illinois,17019,671676.0
+Champaign,Ohio,39021,194004.0
+Chariton,Missouri,29041,45542.0
+Charles,Maryland,24017,2051154.0
+Charles City,Virginia,51036,1181076.0
+Charleston,South Carolina,45019,1986878.0
+Charlevoix,Michigan,26029,538431.0
+Charlotte,Florida,12015,1034290.0
+Charlotte,Virginia,51037,2927322.0
+Charlottesville,Virginia,51540,847473.0
+Charlton,Georgia,13049,251192.0
+Chase,Kansas,20017,10954.0
+Chatham,Georgia,13051,1566922.0
+Chatham,North Carolina,37037,5183632.0
+Chattahoochee,Georgia,13053,99638.0
+Chattooga,Georgia,13055,306301.0
+Chautauqua,Kansas,20019,0.0
+Chautauqua,New York,36013,1070784.0
+Chaves,New Mexico,35005,247946.0
+Cheatham,Tennessee,47021,253400.0
+Cheboygan,Michigan,26031,189565.0
+Chemung,New York,36015,654931.0
+Chenango,New York,36017,747058.0
+Cherokee,Alabama,1019,2745.0
+Cherokee,Georgia,13057,857230.0
+Cherokee,Iowa,19035,40096.0
+Cherokee,Kansas,20021,54834.0
+Cherokee,North Carolina,37039,746525.0
+Cherokee,Oklahoma,40021,521225.0
+Cherokee,South Carolina,45021,118046.0
+Cherokee,Texas,48073,389678.0
+Cherry,Nebraska,31031,1292.0
+Chesapeake,Virginia,51550,2992952.0
+Cheshire,New Hampshire,33005,1605002.0
+Chester,Pennsylvania,42029,9016614.0
+Chester,South Carolina,45023,356635.0
+Chester,Tennessee,47023,98605.0
+Chesterfield,South Carolina,45025,1067699.0
+Chesterfield,Virginia,51041,9025950.0
+Cheyenne,Colorado,8017,32065.0
+Cheyenne,Kansas,20023,51.0
+Chickasaw,Iowa,19037,36047.0
+Chickasaw,Mississippi,28017,3617.0
+Chicot,Arkansas,5017,317275.0
+Childress,Texas,48075,24581.0
+Chilton,Alabama,1021,516801.0
+Chippewa,Minnesota,27023,17014.0
+Chippewa,Wisconsin,55017,308528.0
+Chisago,Minnesota,27025,131628.0
+Chittenden,Vermont,50007,658900.0
+Choctaw,Alabama,1023,115143.0
+Choctaw,Mississippi,28019,100860.0
+Choctaw,Oklahoma,40023,256174.0
+Chowan,North Carolina,37041,8333.0
+Christian,Illinois,17021,263347.0
+Christian,Kentucky,21047,475505.0
+Christian,Missouri,29043,38379.0
+Churchill,Nevada,32001,47530.0
+Cibola,New Mexico,35006,0.0
+Cimarron,Oklahoma,40025,156896.0
+Citrus,Florida,12017,929061.0
+Clackamas,Oregon,41005,2568762.0
+Claiborne,Louisiana,22027,450951.0
+Claiborne,Mississippi,28021,85371.0
+Claiborne,Tennessee,47025,0.0
+Clare,Michigan,26035,2029332.0
+Clarendon,South Carolina,45027,318248.0
+Clarion,Pennsylvania,42031,720430.0
+Clark,Arkansas,5019,131470.0
+Clark,Idaho,16033,23896.0
+Clark,Illinois,17023,22855.0
+Clark,Indiana,18019,1652138.0
+Clark,Kentucky,21049,172030.0
+Clark,Missouri,29045,0.0
+Clark,Nevada,32003,5756797.0
+Clark,Ohio,39023,725505.0
+Clark,Washington,53011,481156.0
+Clark,Wisconsin,55019,87163.0
+Clarke,Alabama,1025,167102.0
+Clarke,Georgia,13059,644674.0
+Clarke,Iowa,19039,32722.0
+Clarke,Mississippi,28023,28637.0
+Clarke,Virginia,51043,414111.0
+Clatsop,Oregon,41007,535222.0
+Clay,Alabama,1027,182547.0
+Clay,Arkansas,5021,188846.0
+Clay,Florida,12019,812376.0
+Clay,Georgia,13061,963544.0
+Clay,Illinois,17025,197297.0
+Clay,Indiana,18021,179013.0
+Clay,Iowa,19041,51510.0
+Clay,Kansas,20027,793581.0
+Clay,Kentucky,21051,61053.0
+Clay,Minnesota,27027,146819.0
+Clay,Mississippi,28025,87099.0
+Clay,Missouri,29047,76374.0
+Clay,North Carolina,37043,7078.0
+Clay,Tennessee,47027,154488.0
+Clay,Texas,48077,136760.0
+Clay,West Virginia,54015,568923.0
+Clayton,Georgia,13063,1192305.0
+Clayton,Iowa,19043,40180.0
+Clear Creek,Colorado,8019,132800.0
+Clearfield,Pennsylvania,42033,661773.0
+Clearwater,Idaho,16035,313119.0
+Clearwater,Minnesota,27029,1903.0
+Cleburne,Alabama,1029,664041.0
+Cleburne,Arkansas,5023,205797.0
+Clermont,Ohio,39025,2573463.0
+Cleveland,Arkansas,5025,18991.0
+Cleveland,North Carolina,37045,1049590.0
+Cleveland,Oklahoma,40027,552066.0
+Clinch,Georgia,13065,15625.0
+Clinton,Illinois,17027,328395.0
+Clinton,Indiana,18023,89076.0
+Clinton,Iowa,19045,314289.0
+Clinton,Kentucky,21053,3987.0
+Clinton,Michigan,26037,610171.0
+Clinton,Missouri,29049,58334.0
+Clinton,New York,36019,2727962.0
+Clinton,Ohio,39027,411852.0
+Clinton,Pennsylvania,42035,335141.0
+Cloud,Kansas,20029,3155.0
+Coahoma,Mississippi,28027,62509.0
+Coal,Oklahoma,40029,97156.0
+Cobb,Georgia,13067,1597943.0
+Cochise,Arizona,4003,158236.0
+Cochran,Texas,48079,5038.0
+Cocke,Tennessee,47029,23707.0
+Coconino,Arizona,4005,1286567.0
+Coffee,Alabama,1031,388517.0
+Coffee,Georgia,13069,543862.0
+Coffee,Tennessee,47031,150808.0
+Coffey,Kansas,20031,60544.0
+Coke,Texas,48081,104477.0
+Cole,Missouri,29051,141016.0
+Coleman,Texas,48083,7100.0
+Coles,Illinois,17029,41568.0
+Colfax,Nebraska,31037,12274.0
+Colleton,South Carolina,45029,626835.0
+Collier,Florida,12021,1526268.0
+Collin,Texas,48085,3529027.0
+Collingsworth,Texas,48087,7533.0
+Colonial Heights,Virginia,51570,346711.0
+Colorado,Texas,48089,208891.0
+Colquitt,Georgia,13071,502757.0
+Columbia,Arkansas,5027,238446.0
+Columbia,Florida,12023,724333.0
+Columbia,Georgia,13073,552278.0
+Columbia,New York,36021,3193873.0
+Columbia,Oregon,41009,4285.0
+Columbia,Pennsylvania,42037,1398096.0
+Columbia,Washington,53013,30236.0
+Columbia,Wisconsin,55021,170633.0
+Columbiana,Ohio,39029,2149245.0
+Columbus,North Carolina,37047,8930693.0
+Colusa,California,6011,70029.0
+Comal,Texas,48091,234839.0
+Comanche,Oklahoma,40031,668555.0
+Comanche,Texas,48093,207477.0
+Concho,Texas,48095,39237.0
+Concordia,Louisiana,22029,177745.0
+Conecuh,Alabama,1035,27945.0
+Conejos,Colorado,8021,142767.0
+Contra Costa,California,6013,2827755.0
+Converse,Wyoming,56009,244083.0
+Conway,Arkansas,5029,151084.0
+Cook,Georgia,13075,67128.0
+Cook,Illinois,17031,18957115.0
+Cook,Minnesota,27031,0.0
+Cooke,Texas,48097,217369.0
+Cooper,Missouri,29053,67364.0
+Coos,New Hampshire,33007,537089.0
+Coos,Oregon,41011,679253.0
+Coosa,Alabama,1037,358874.0
+Copiah,Mississippi,28029,364831.0
+Corson,South Dakota,46031,2289.0
+Cortland,New York,36023,271697.0
+Coryell,Texas,48099,176910.0
+Coshocton,Ohio,39031,363771.0
+Costilla,Colorado,8023,27632.0
+Cottle,Texas,48101,8868.0
+Cotton,Oklahoma,40033,39780.0
+Cottonwood,Minnesota,27033,0.0
+Covington,Alabama,1039,153002.0
+Covington,Mississippi,28031,138387.0
+Covington,Virginia,51580,19862.0
+Coweta,Georgia,13077,584148.0
+Cowley,Kansas,20035,68070.0
+Cowlitz,Washington,53015,864.0
+Craig,Oklahoma,40035,112869.0
+Craig,Virginia,51045,385127.0
+Craighead,Arkansas,5031,134530.0
+Crane,Texas,48103,109019.0
+Craven,North Carolina,37049,8127083.0
+Crawford,Arkansas,5033,437940.0
+Crawford,Georgia,13079,204181.0
+Crawford,Illinois,17033,133595.0
+Crawford,Indiana,18025,819974.0
+Crawford,Iowa,19047,95548.0
+Crawford,Kansas,20037,81512.0
+Crawford,Michigan,26039,161747.0
+Crawford,Missouri,29055,230733.0
+Crawford,Ohio,39033,131323.0
+Crawford,Pennsylvania,42039,605047.0
+Crawford,Wisconsin,55023,3176.0
+Creek,Oklahoma,40037,334160.0
+Crenshaw,Alabama,1041,180050.0
+Crisp,Georgia,13081,1728.0
+Crittenden,Arkansas,5035,283757.0
+Crittenden,Kentucky,21055,75807.0
+Crockett,Tennessee,47033,198702.0
+Crockett,Texas,48105,48398.0
+Crook,Oregon,41013,77779.0
+Crook,Wyoming,56011,21.0
+Crosby,Texas,48107,207856.0
+Cross,Arkansas,5037,206520.0
+Crow Wing,Minnesota,27035,287122.0
+Crowley,Colorado,8025,3069.0
+Culberson,Texas,48109,89701.0
+Cullman,Alabama,1043,768031.0
+Culpeper,Virginia,51047,2664848.0
+Cumberland,Illinois,17035,9955.0
+Cumberland,Kentucky,21057,20738.0
+Cumberland,Maine,23005,4900674.0
+Cumberland,New Jersey,34011,2463671.0
+Cumberland,North Carolina,37051,7793152.0
+Cumberland,Pennsylvania,42041,1106117.0
+Cumberland,Virginia,51049,1218939.0
+Currituck,North Carolina,37053,340507.0
+Curry,New Mexico,35009,79143.0
+Custer,Colorado,8027,25555.0
+Custer,Idaho,16037,150.0
+Custer,Montana,30017,10422.0
+Custer,Oklahoma,40039,621439.0
+Custer,South Dakota,46033,3205.0
+Cuyahoga,Ohio,39035,10045993.0
+Dade,Georgia,13083,214397.0
+Dade,Missouri,29057,127.0
+Dakota,Minnesota,27037,1006760.0
+Dakota,Nebraska,31043,30744.0
+Dale,Alabama,1045,758966.0
+Dallam,Texas,48111,27645.0
+Dallas,Alabama,1047,549037.0
+Dallas,Arkansas,5039,114280.0
+Dallas,Iowa,19049,174757.0
+Dallas,Missouri,29059,31312.0
+Dallas,Texas,48113,9955539.0
+Dane,Wisconsin,55025,914177.0
+Daniels,Montana,30019,6143.0
+Danville,Virginia,51590,2680.0
+Dare,North Carolina,37055,580294.0
+Darke,Ohio,39037,180289.0
+Darlington,South Carolina,45031,1402430.0
+Dauphin,Pennsylvania,42043,1288522.0
+Davidson,North Carolina,37057,4405615.0
+Davidson,Tennessee,47037,361051.0
+Davie,North Carolina,37059,1090602.0
+Daviess,Indiana,18027,26910.0
+Daviess,Kentucky,21059,389614.0
+Daviess,Missouri,29061,11341.0
+Davis,Iowa,19051,23533.0
+Davis,Utah,49011,754244.0
+Dawes,Nebraska,31045,4355.0
+Dawson,Georgia,13085,207639.0
+Dawson,Montana,30021,20879.0
+Dawson,Nebraska,31047,22518.0
+Dawson,Texas,48115,94549.0
+De Baca,New Mexico,35011,5624.0
+De Soto,Louisiana,22031,991178.0
+De Witt,Illinois,17039,82626.0
+DeKalb,Georgia,13089,3302562.0
+DeKalb,Illinois,17037,486565.0
+DeKalb,Indiana,18033,229670.0
+DeKalb,Missouri,29063,34719.0
+DeKalb,Tennessee,47041,6617.0
+DeSoto,Florida,12027,194933.0
+DeSoto,Mississippi,28033,506660.0
+DeWitt,Texas,48123,63542.0
+Deaf Smith,Texas,48117,24932.0
+Dearborn,Indiana,18029,354814.0
+Decatur,Georgia,13087,6980221.0
+Decatur,Indiana,18031,228764.0
+Decatur,Iowa,19053,43046.0
+Decatur,Kansas,20039,2796.0
+Defiance,Ohio,39039,96915.0
+Del Norte,California,6015,450427.0
+Delaware,Indiana,18035,1639147.0
+Delaware,Iowa,19055,40334.0
+Delaware,New York,36025,1125868.0
+Delaware,Ohio,39041,536295.0
+Delaware,Oklahoma,40041,563836.0
+Delaware,Pennsylvania,42045,20477531.0
+Delta,Colorado,8029,0.0
+Delta,Michigan,26041,125089.0
+Delta,Texas,48119,23554.0
+Denali,Alaska,2068,58624.0
+Dent,Missouri,29065,39082.0
+Denton,Texas,48121,2151451.0
+Denver,Colorado,8031,3888905.0
+Des Moines,Iowa,19057,166422.0
+Deschutes,Oregon,41017,578082.0
+Desha,Arkansas,5041,140103.0
+Deuel,Nebraska,31049,2559.0
+Deuel,South Dakota,46039,0.0
+Dewey,Oklahoma,40043,769144.0
+Dickens,Texas,48125,8671.0
+Dickenson,Virginia,51051,572017.0
+Dickey,North Dakota,38021,32223.0
+Dickinson,Iowa,19059,66767.0
+Dickinson,Kansas,20041,49877.0
+Dickinson,Michigan,26043,47709.0
+Dickson,Tennessee,47043,549.0
+Dillon,South Carolina,45033,2501500.0
+Dimmit,Texas,48127,202632.0
+Dinwiddie,Virginia,51053,1908181.0
+District of Columbia,District of Columbia,11001,6200892.0
+Divide,North Dakota,38023,13868.0
+Dixie,Florida,12029,146647.0
+Dixon,Nebraska,31051,4371.0
+Doddridge,West Virginia,54017,367865.0
+Dodge,Georgia,13091,551145.0
+Dodge,Minnesota,27039,40290.0
+Dodge,Nebraska,31053,172838.0
+Dodge,Wisconsin,55027,583777.0
+Dolores,Colorado,8033,0.0
+Doniphan,Kansas,20043,49055.0
+Donley,Texas,48129,39412.0
+Dooly,Georgia,13093,532093.0
+Door,Wisconsin,55029,347789.0
+Dorchester,Maryland,24019,107533.0
+Dorchester,South Carolina,45035,629978.0
+Dougherty,Georgia,13095,1653240.0
+Douglas,Colorado,8035,358939.0
+Douglas,Georgia,13097,567893.0
+Douglas,Illinois,17041,71379.0
+Douglas,Kansas,20045,667729.0
+Douglas,Minnesota,27041,448.0
+Douglas,Nebraska,31055,4050087.0
+Douglas,Nevada,32005,204606.0
+Douglas,Oregon,41019,693253.0
+Douglas,Wisconsin,55031,40626.0
+Doña Ana,New Mexico,35013,628625.0
+Drew,Arkansas,5043,132245.0
+DuPage,Illinois,17043,5302097.0
+Dubois,Indiana,18037,0.0
+Dubuque,Iowa,19061,153451.0
+Duchesne,Utah,49013,193.0
+Dukes,Massachusetts,25007,1289255.0
+Dunklin,Missouri,29069,6645.0
+Dunn,North Dakota,38025,13446.0
+Dunn,Wisconsin,55033,116914.0
+Duplin,North Carolina,37061,5718347.0
+Durham,North Carolina,37063,5415408.0
+Dutchess,New York,36027,16954234.0
+Duval,Florida,12031,2072074.0
+Duval,Texas,48131,272813.0
+Dyer,Tennessee,47045,29287.0
+Eagle,Colorado,8037,273090.0
+Early,Georgia,13099,269711.0
+East Baton Rouge,Louisiana,22033,4048326.0
+East Carroll,Louisiana,22035,219630.0
+East Feliciana,Louisiana,22037,590976.0
+Eastland,Texas,48133,537327.0
+Eaton,Michigan,26045,709810.0
+Eau Claire,Wisconsin,55035,254031.0
+Echols,Georgia,13101,13548.0
+Ector,Texas,48135,1332651.0
+Eddy,New Mexico,35015,297826.0
+Edgar,Illinois,17045,31514.0
+Edgecombe,North Carolina,37065,82540.0
+Edgefield,South Carolina,45037,178589.0
+Edmonson,Kentucky,21061,301941.0
+Edmunds,South Dakota,46045,8548.0
+Edwards,Illinois,17047,9952.0
+Edwards,Kansas,20047,51816.0
+Edwards,Texas,48137,85105.0
+Effingham,Georgia,13103,301353.0
+Effingham,Illinois,17049,70537.0
+El Dorado,California,6017,3583872.0
+El Paso,Colorado,8041,357428.0
+El Paso,Texas,48141,1558483.0
+Elbert,Colorado,8039,69259.0
+Elbert,Georgia,13105,47920.0
+Elk,Kansas,20049,44589.0
+Elk,Pennsylvania,42047,663519.0
+Elkhart,Indiana,18039,1814365.0
+Elko,Nevada,32007,181718.0
+Elliott,Kentucky,21063,1428.0
+Ellis,Kansas,20051,366121.0
+Ellis,Oklahoma,40045,364620.0
+Ellis,Texas,48139,966519.0
+Ellsworth,Kansas,20053,14047.0
+Elmore,Alabama,1051,1000918.0
+Elmore,Idaho,16039,138348.0
+Emanuel,Georgia,13107,600226.0
+Emery,Utah,49015,60075.0
+Emmet,Iowa,19063,24579.0
+Emmet,Michigan,26047,460808.0
+Emmons,North Dakota,38029,6051.0
+Emporia,Virginia,51595,55765.0
+Erath,Texas,48143,2163246.0
+Erie,New York,36029,6756134.0
+Erie,Ohio,39043,448574.0
+Erie,Pennsylvania,42049,3043960.0
+Escambia,Alabama,1053,190227.0
+Escambia,Florida,12033,1796706.0
+Esmeralda,Nevada,32009,16655.0
+Essex,Massachusetts,25009,23029311.0
+Essex,New Jersey,34013,9695963.0
+Essex,New York,36031,3354606.0
+Essex,Vermont,50009,232033.0
+Essex,Virginia,51057,860368.0
+Estill,Kentucky,21065,74875.0
+Etowah,Alabama,1055,1386765.0
+Eureka,Nevada,32011,12092.0
+Evangeline,Louisiana,22039,284483.0
+Evans,Georgia,13109,180441.0
+Fairbanks North Star,Alaska,2090,1379301.0
+Fairfax,Virginia,51059,0.0
+Fairfax City,Virginia,51600,23331761.0
+Fairfield,Connecticut,9001,19395846.0
+Fairfield,Ohio,39045,1701362.0
+Fairfield,South Carolina,45039,341499.0
+Fall River,South Dakota,46047,11872.0
+Fallon,Montana,30025,2095.0
+Falls,Texas,48145,142706.0
+Falls Church,Virginia,51610,312876.0
+Fannin,Georgia,13111,11060.0
+Fannin,Texas,48147,131397.0
+Faribault,Minnesota,27043,9914.0
+Faulk,South Dakota,46049,723.0
+Faulkner,Arkansas,5045,451015.0
+Fauquier,Virginia,51061,3726002.0
+Fayette,Alabama,1057,293683.0
+Fayette,Georgia,13113,360348.0
+Fayette,Illinois,17051,200904.0
+Fayette,Indiana,18041,116563.0
+Fayette,Iowa,19065,68866.0
+Fayette,Kentucky,21067,7575442.0
+Fayette,Ohio,39047,276218.0
+Fayette,Pennsylvania,42051,1249423.0
+Fayette,Tennessee,47047,15638.0
+Fayette,Texas,48149,6191.0
+Fayette,West Virginia,54019,1918569.0
+Ferry,Washington,53019,482919.0
+Fillmore,Minnesota,27045,0.0
+Fillmore,Nebraska,31059,198.0
+Fisher,Texas,48151,68344.0
+Flagler,Florida,12035,393256.0
+Flathead,Montana,30029,589217.0
+Fleming,Kentucky,21069,4352.0
+Florence,South Carolina,45041,1922150.0
+Florence,Wisconsin,55037,101337.0
+Floyd,Georgia,13115,538650.0
+Floyd,Indiana,18043,1225550.0
+Floyd,Iowa,19067,128012.0
+Floyd,Kentucky,21071,527135.0
+Floyd,Texas,48153,47825.0
+Floyd,Virginia,51063,3108700.0
+Fluvanna,Virginia,51065,564805.0
+Foard,Texas,48155,19537.0
+Fond du Lac,Wisconsin,55039,1394861.0
+Ford,Illinois,17053,94816.0
+Forest,Pennsylvania,42053,352958.0
+Forest,Wisconsin,55041,168825.0
+Forrest,Mississippi,28035,188521.0
+Forsyth,Georgia,13117,378057.0
+Forsyth,North Carolina,37067,8158966.0
+Fort Bend,Texas,48157,1826422.0
+Fountain,Indiana,18045,132897.0
+Franklin,Alabama,1059,106727.0
+Franklin,Arkansas,5047,61539.0
+Franklin,Florida,12037,4736483.0
+Franklin,Georgia,13119,103801.0
+Franklin,Idaho,16041,102964.0
+Franklin,Illinois,17055,1105784.0
+Franklin,Indiana,18047,140534.0
+Franklin,Iowa,19069,80668.0
+Franklin,Kansas,20059,263959.0
+Franklin,Kentucky,21073,463919.0
+Franklin,Louisiana,22041,71450.0
+Franklin,Maine,23007,2475714.0
+Franklin,Massachusetts,25011,433202.0
+Franklin,Mississippi,28037,401972.0
+Franklin,Missouri,29071,75475.0
+Franklin,New York,36033,1386277.0
+Franklin,North Carolina,37069,1373369.0
+Franklin,Ohio,39049,8801913.0
+Franklin,Pennsylvania,42055,406392.0
+Franklin,Tennessee,47051,257999.0
+Franklin,Texas,48159,121975.0
+Franklin,Vermont,50011,372502.0
+Franklin,Virginia,51067,3692054.0
+Franklin,Washington,53021,0.0
+Franklin City,Virginia,51620,0.0
+Frederick,Maryland,24021,1561252.0
+Frederick,Virginia,51069,596291.0
+Fredericksburg,Virginia,51630,500686.0
+Freeborn,Minnesota,27047,22504.0
+Freestone,Texas,48161,148330.0
+Fremont,Colorado,8043,167684.0
+Fremont,Idaho,16043,260460.0
+Fremont,Iowa,19071,51208.0
+Fremont,Wyoming,56013,44855.0
+Fresno,California,6019,2047375.0
+Frio,Texas,48163,184543.0
+Fulton,Arkansas,5049,9184.0
+Fulton,Georgia,13121,5220938.0
+Fulton,Illinois,17057,111590.0
+Fulton,Indiana,18049,85300.0
+Fulton,Kentucky,21075,36729.0
+Fulton,New York,36035,1349531.0
+Fulton,Ohio,39051,75300.0
+Fulton,Pennsylvania,42057,108452.0
+Furnas,Nebraska,31065,513.0
+Gadsden,Florida,12039,11941766.0
+Gage,Nebraska,31067,0.0
+Gaines,Texas,48165,249984.0
+Galax,Virginia,51640,196712.0
+Gallatin,Illinois,17059,115852.0
+Gallatin,Kentucky,21077,168209.0
+Gallatin,Montana,30031,0.0
+Gallia,Ohio,39053,305674.0
+Galveston,Texas,48167,1636365.0
+Garden,Nebraska,31069,11340.0
+Garfield,Colorado,8045,318609.0
+Garfield,Oklahoma,40047,227883.0
+Garfield,Utah,49017,42382.0
+Garfield,Washington,53023,4840.0
+Garland,Arkansas,5051,1375738.0
+Garrard,Kentucky,21079,24774.0
+Garrett,Maryland,24023,624885.0
+Garvin,Oklahoma,40049,388560.0
+Garza,Texas,48169,19037.0
+Gasconade,Missouri,29073,63476.0
+Gaston,North Carolina,37071,2217436.0
+Gates,North Carolina,37073,65026.0
+Geary,Kansas,20061,58627.0
+Geauga,Ohio,39055,1080979.0
+Gem,Idaho,16045,25502.0
+Genesee,Michigan,26049,4669406.0
+Genesee,New York,36037,351951.0
+Geneva,Alabama,1061,1466632.0
+Gentry,Missouri,29075,40593.0
+George,Mississippi,28039,187569.0
+Georgetown,South Carolina,45043,524061.0
+Gibson,Indiana,18051,259245.0
+Gibson,Tennessee,47053,200540.0
+Gila,Arizona,4007,459182.0
+Gilchrist,Florida,12041,345060.0
+Giles,Tennessee,47055,370703.0
+Giles,Virginia,51071,2516445.0
+Gillespie,Texas,48171,2575.0
+Gilliam,Oregon,41021,12996.0
+Gilmer,Georgia,13123,2431884.0
+Gilmer,West Virginia,54021,240602.0
+Gilpin,Colorado,8047,31565.0
+Glades,Florida,12043,32547.0
+Gladwin,Michigan,26051,1519138.0
+Glascock,Georgia,13125,96257.0
+Glasscock,Texas,48173,73480.0
+Glenn,California,6021,231661.0
+Gloucester,New Jersey,34015,3234423.0
+Gloucester,Virginia,51073,4537798.0
+Glynn,Georgia,13127,1116024.0
+Gogebic,Michigan,26053,189784.0
+Golden Valley,North Dakota,38033,9689.0
+Goliad,Texas,48175,109315.0
+Gonzales,Texas,48177,138652.0
+Goochland,Virginia,51075,1286238.0
+Goodhue,Minnesota,27049,499705.0
+Gooding,Idaho,16047,127758.0
+Gordon,Georgia,13129,354446.0
+Gove,Kansas,20063,14954.0
+Grady,Georgia,13131,4927394.0
+Grady,Oklahoma,40051,452242.0
+Grafton,New Hampshire,33009,1512481.0
+Graham,Arizona,4009,0.0
+Graham,Kansas,20065,84.0
+Graham,North Carolina,37075,157489.0
+Grainger,Tennessee,47057,101683.0
+Grand,Colorado,8049,15408.0
+Grand,Utah,49019,89956.0
+Grand Forks,North Dakota,38035,257311.0
+Grand Isle,Vermont,50013,84696.0
+Grand Traverse,Michigan,26055,436585.0
+Grant,Arkansas,5053,125378.0
+Grant,Indiana,18053,703575.0
+Grant,Kentucky,21081,263521.0
+Grant,Louisiana,22043,627849.0
+Grant,Minnesota,27051,415.0
+Grant,New Mexico,35017,200916.0
+Grant,North Dakota,38037,0.0
+Grant,Oklahoma,40053,50684.0
+Grant,Oregon,41023,372.0
+Grant,Washington,53025,100.0
+Grant,West Virginia,54023,204423.0
+Grant,Wisconsin,55043,57400.0
+Granville,North Carolina,37077,1940720.0
+Gratiot,Michigan,26057,492830.0
+Graves,Kentucky,21083,182387.0
+Gray,Texas,48179,112884.0
+Grayson,Kentucky,21085,442089.0
+Grayson,Texas,48181,693140.0
+Grayson,Virginia,51077,2333376.0
+Greeley,Kansas,20071,30666.0
+Green,Kentucky,21087,1345.0
+Green,Wisconsin,55045,86587.0
+Green Lake,Wisconsin,55047,339768.0
+Greenbrier,West Virginia,54025,1483665.0
+Greene,Alabama,1063,47005.0
+Greene,Arkansas,5055,6802.0
+Greene,Georgia,13133,308369.0
+Greene,Illinois,17061,60934.0
+Greene,Indiana,18055,122769.0
+Greene,Iowa,19073,84431.0
+Greene,Mississippi,28041,154225.0
+Greene,Missouri,29077,1166346.0
+Greene,New York,36039,2520529.0
+Greene,North Carolina,37079,330713.0
+Greene,Ohio,39057,913956.0
+Greene,Pennsylvania,42059,646761.0
+Greene,Tennessee,47059,42289.0
+Greene,Virginia,51079,1417431.0
+Greenlee,Arizona,4011,0.0
+Greensville,Virginia,51081,206507.0
+Greenup,Kentucky,21089,263249.0
+Greenville,South Carolina,45045,10658829.0
+Greenwood,Kansas,20073,396692.0
+Greenwood,South Carolina,45047,422540.0
+Greer,Oklahoma,40055,11700.0
+Gregg,Texas,48183,1903223.0
+Grenada,Mississippi,28043,308960.0
+Grimes,Texas,48185,324588.0
+Grundy,Illinois,17063,273531.0
+Grundy,Iowa,19075,34187.0
+Grundy,Missouri,29079,19670.0
+Grundy,Tennessee,47061,281.0
+Guadalupe,New Mexico,35019,17720.0
+Guadalupe,Texas,48187,195709.0
+Guernsey,Ohio,39059,433682.0
+Guilford,North Carolina,37081,28472360.0
+Gulf,Florida,12045,5033295.0
+Gunnison,Colorado,8051,8728.0
+Guthrie,Iowa,19077,12030.0
+Gwinnett,Georgia,13135,4152080.0
+Haakon,South Dakota,46055,321.0
+Habersham,Georgia,13137,435628.0
+Hale,Alabama,1065,137909.0
+Hale,Texas,48189,84134.0
+Halifax,North Carolina,37083,522392.0
+Halifax,Virginia,51083,2897048.0
+Hall,Georgia,13139,606933.0
+Hall,Nebraska,31079,0.0
+Hall,Texas,48191,34394.0
+Hamblen,Tennessee,47063,64109.0
+Hamilton,Florida,12047,270604.0
+Hamilton,Illinois,17065,27891.0
+Hamilton,Indiana,18057,837273.0
+Hamilton,Iowa,19079,42223.0
+Hamilton,Nebraska,31081,9181.0
+Hamilton,New York,36041,2401073.0
+Hamilton,Ohio,39061,9959937.0
+Hamilton,Tennessee,47065,3.0
+Hamilton,Texas,48193,45833.0
+Hamlin,South Dakota,46057,7.0
+Hampden,Massachusetts,25013,736817.0
+Hampshire,Massachusetts,25015,435382.0
+Hampshire,West Virginia,54027,697736.0
+Hampton,South Carolina,45049,154797.0
+Hampton,Virginia,51650,3199480.0
+Hancock,Georgia,13141,341371.0
+Hancock,Illinois,17067,114605.0
+Hancock,Indiana,18059,180552.0
+Hancock,Iowa,19081,114482.0
+Hancock,Kentucky,21091,167156.0
+Hancock,Maine,23009,2975454.0
+Hancock,Mississippi,28045,21094.0
+Hancock,Ohio,39063,172427.0
+Hancock,Tennessee,47067,0.0
+Hancock,West Virginia,54029,641558.0
+Hanover,Virginia,51085,3063178.0
+Hansford,Texas,48195,45285.0
+Hanson,South Dakota,46061,8025.0
+Haralson,Georgia,13143,399795.0
+Hardee,Florida,12049,174244.0
+Hardeman,Tennessee,47069,7459.0
+Hardeman,Texas,48197,63723.0
+Hardin,Illinois,17069,146874.0
+Hardin,Iowa,19083,68577.0
+Hardin,Kentucky,21093,691264.0
+Hardin,Ohio,39065,142597.0
+Hardin,Texas,48199,472318.0
+Harding,South Dakota,46063,27.0
+Hardy,West Virginia,54031,400329.0
+Harford,Maryland,24025,4126967.0
+Harlan,Kentucky,21095,339824.0
+Harlan,Nebraska,31083,3070.0
+Harmon,Oklahoma,40057,3070.0
+Harnett,North Carolina,37085,4841826.0
+Harney,Oregon,41025,7719.0
+Harper,Kansas,20077,482.0
+Harper,Oklahoma,40059,102127.0
+Harris,Georgia,13145,226393.0
+Harris,Texas,48201,16956417.0
+Harrison,Indiana,18061,136326.0
+Harrison,Iowa,19085,69875.0
+Harrison,Kentucky,21097,89283.0
+Harrison,Mississippi,28047,275335.0
+Harrison,Missouri,29081,16026.0
+Harrison,Ohio,39067,374722.0
+Harrison,Texas,48203,597857.0
+Harrison,West Virginia,54033,1128715.0
+Harrisonburg,Virginia,51660,104.0
+Hart,Georgia,13147,72927.0
+Hart,Kentucky,21099,74290.0
+Hartford,Connecticut,9003,2919830.0
+Hartley,Texas,48205,13368.0
+Harvey,Kansas,20079,92685.0
+Haskell,Oklahoma,40061,82215.0
+Haskell,Texas,48207,74243.0
+Hawkins,Tennessee,47073,902602.0
+Hays,Texas,48209,376060.0
+Haywood,North Carolina,37087,2096584.0
+Haywood,Tennessee,47075,49698.0
+Heard,Georgia,13149,74472.0
+Hemphill,Texas,48211,16784.0
+Hempstead,Arkansas,5057,131425.0
+Henderson,Illinois,17071,20385.0
+Henderson,Kentucky,21101,131732.0
+Henderson,North Carolina,37089,3511987.0
+Henderson,Tennessee,47077,25692.0
+Henderson,Texas,48213,675138.0
+Hendricks,Indiana,18063,668455.0
+Hendry,Florida,12051,206527.0
+Hennepin,Minnesota,27053,4720200.0
+Henrico,Virginia,51087,12799991.0
+Henry,Alabama,1067,1164486.0
+Henry,Georgia,13151,624051.0
+Henry,Illinois,17073,88004.0
+Henry,Indiana,18065,146569.0
+Henry,Iowa,19087,86802.0
+Henry,Kentucky,21103,214249.0
+Henry,Missouri,29083,72271.0
+Henry,Ohio,39069,30509.0
+Henry,Tennessee,47079,2501.0
+Henry,Virginia,51089,5225897.0
+Herkimer,New York,36043,1164709.0
+Hernando,Florida,12053,705479.0
+Hertford,North Carolina,37091,221208.0
+Hettinger,North Dakota,38041,20823.0
+Hickman,Kentucky,21105,70048.0
+Hickman,Tennessee,47081,580.0
+Hickory,Missouri,29085,95608.0
+Hidalgo,New Mexico,35023,9833.0
+Hidalgo,Texas,48215,4546740.0
+Highland,Ohio,39071,660398.0
+Highland,Virginia,51091,35980.0
+Highlands,Florida,12055,596775.0
+Hill,Texas,48217,113341.0
+Hillsborough,Florida,12057,5249549.0
+Hillsborough,New Hampshire,33011,3717444.0
+Hillsdale,Michigan,26059,781679.0
+Hinds,Mississippi,28049,2876699.0
+Hinsdale,Colorado,8053,833.0
+Hocking,Ohio,39073,1361620.0
+Hockley,Texas,48219,46715.0
+Hodgeman,Kansas,20083,27220.0
+Hoke,North Carolina,37093,2805365.0
+Holmes,Florida,12059,2230649.0
+Holmes,Mississippi,28051,246058.0
+Holmes,Ohio,39075,504772.0
+Holt,Missouri,29087,36093.0
+Holt,Nebraska,31089,213417.0
+Honolulu,Hawaii,15003,3633516.0
+Hood,Texas,48221,289519.0
+Hood River,Oregon,41027,50444.0
+Hopewell,Virginia,51670,426581.0
+Hopkins,Kentucky,21107,164439.0
+Hopkins,Texas,48223,194133.0
+Horry,South Carolina,45051,5110829.0
+Hot Spring,Arkansas,5059,348827.0
+Hot Springs,Wyoming,56017,22380.0
+Houghton,Michigan,26061,135127.0
+Houston,Alabama,1069,5667742.0
+Houston,Georgia,13153,1086324.0
+Houston,Minnesota,27055,19449.0
+Houston,Texas,48225,290666.0
+Howard,Arkansas,5061,0.0
+Howard,Indiana,18067,508644.0
+Howard,Iowa,19089,24248.0
+Howard,Maryland,24027,2917978.0
+Howard,Missouri,29089,51362.0
+Howard,Nebraska,31093,0.0
+Howard,Texas,48227,395956.0
+Hubbard,Minnesota,27057,162905.0
+Hudson,New Jersey,34017,1468185.0
+Hudspeth,Texas,48229,3429.0
+Huerfano,Colorado,8055,0.0
+Hughes,Oklahoma,40063,134706.0
+Humboldt,California,6023,666254.0
+Humboldt,Iowa,19091,45115.0
+Humboldt,Nevada,32013,153828.0
+Humphreys,Mississippi,28053,78617.0
+Hunt,Texas,48231,297917.0
+Hunterdon,New Jersey,34019,11592073.0
+Huntingdon,Pennsylvania,42061,190429.0
+Huntington,Indiana,18069,49696.0
+Huron,Michigan,26063,2635883.0
+Huron,Ohio,39077,349760.0
+Hutchinson,South Dakota,46067,0.0
+Hutchinson,Texas,48233,129919.0
+Hyde,North Carolina,37095,535045.0
+Iberia,Louisiana,22045,534420.0
+Iberville,Louisiana,22047,259133.0
+Ida,Iowa,19093,22823.0
+Idaho,Idaho,16049,104126.0
+Imperial,California,6025,9186.0
+Independence,Arkansas,5063,326073.0
+Indian River,Florida,12061,503098.0
+Indiana,Pennsylvania,42063,932192.0
+Ingham,Michigan,26065,873713.0
+Inyo,California,6027,144405.0
+Ionia,Michigan,26067,1073943.0
+Iosco,Michigan,26069,686377.0
+Iowa,Iowa,19095,284572.0
+Iowa,Wisconsin,55049,0.0
+Iredell,North Carolina,37097,1882967.0
+Irion,Texas,48235,27212.0
+Iron,Michigan,26071,6245.0
+Iron,Missouri,29093,36453.0
+Iron,Utah,49021,296025.0
+Iron,Wisconsin,55051,146192.0
+Iroquois,Illinois,17075,110684.0
+Irwin,Georgia,13155,521929.0
+Isabella,Michigan,26073,472089.0
+Isanti,Minnesota,27059,16.0
+Island,Washington,53029,1149658.0
+Isle of Wight,Virginia,51093,547018.0
+Issaquena,Mississippi,28055,0.0
+Itasca,Minnesota,27061,272212.0
+Itawamba,Mississippi,28057,118.0
+Izard,Arkansas,5065,140840.0
+Jack,Texas,48237,163810.0
+Jackson,Alabama,1071,586.0
+Jackson,Arkansas,5067,301458.0
+Jackson,Colorado,8057,14250.0
+Jackson,Florida,12063,13390102.0
+Jackson,Georgia,13157,190025.0
+Jackson,Illinois,17077,237301.0
+Jackson,Indiana,18071,344066.0
+Jackson,Iowa,19097,9175.0
+Jackson,Kansas,20085,5810812.0
+Jackson,Kentucky,21109,260.0
+Jackson,Louisiana,22049,355099.0
+Jackson,Michigan,26075,1521915.0
+Jackson,Minnesota,27063,0.0
+Jackson,Mississippi,28059,691183.0
+Jackson,Missouri,29095,179230.0
+Jackson,North Carolina,37099,1343530.0
+Jackson,Ohio,39079,398758.0
+Jackson,Oklahoma,40065,32888.0
+Jackson,Oregon,41029,634849.0
+Jackson,South Dakota,46071,7984.0
+Jackson,Tennessee,47087,3927.0
+Jackson,Texas,48239,110290.0
+Jackson,West Virginia,54035,1154843.0
+Jackson,Wisconsin,55053,34095.0
+James City,Virginia,51095,4038116.0
+Jasper,Georgia,13159,141373.0
+Jasper,Illinois,17079,12449.0
+Jasper,Indiana,18073,47138.0
+Jasper,Iowa,19099,140418.0
+Jasper,Mississippi,28061,186633.0
+Jasper,Missouri,29097,207518.0
+Jasper,South Carolina,45053,223149.0
+Jasper,Texas,48241,74347.0
+Jay,Indiana,18075,43688.0
+Jeff Davis,Georgia,13161,256715.0
+Jeff Davis,Texas,48243,42586.0
+Jefferson,Alabama,1073,8827262.0
+Jefferson,Arkansas,5069,646791.0
+Jefferson,Colorado,8059,2545600.0
+Jefferson,Florida,12065,951294.0
+Jefferson,Georgia,13163,343058.0
+Jefferson,Idaho,16051,150645.0
+Jefferson,Illinois,17081,1167753.0
+Jefferson,Indiana,18077,1820686.0
+Jefferson,Iowa,19101,169423.0
+Jefferson,Kansas,20087,148449.0
+Jefferson,Kentucky,21111,13950419.0
+Jefferson,Louisiana,22051,2735903.0
+Jefferson,Mississippi,28063,29418.0
+Jefferson,Missouri,29099,572.0
+Jefferson,New York,36045,841491.0
+Jefferson,Ohio,39081,904957.0
+Jefferson,Oklahoma,40067,119750.0
+Jefferson,Oregon,41031,123651.0
+Jefferson,Pennsylvania,42065,533492.0
+Jefferson,Tennessee,47089,48528.0
+Jefferson,Texas,48245,1879052.0
+Jefferson,Washington,53031,10975.0
+Jefferson,West Virginia,54037,484119.0
+Jefferson,Wisconsin,55055,439698.0
+Jefferson Davis,Louisiana,22053,291370.0
+Jefferson Davis,Mississippi,28065,99218.0
+Jenkins,Georgia,13165,46408.0
+Jennings,Indiana,18079,606799.0
+Jerome,Idaho,16053,96204.0
+Jersey,Illinois,17083,62586.0
+Jessamine,Kentucky,21113,307629.0
+Jim Hogg,Texas,48247,135477.0
+Jim Wells,Texas,48249,651125.0
+Jo Daviess,Illinois,17085,137594.0
+Johnson,Arkansas,5071,34231.0
+Johnson,Georgia,13167,752611.0
+Johnson,Illinois,17087,123312.0
+Johnson,Indiana,18081,389099.0
+Johnson,Iowa,19103,581910.0
+Johnson,Kansas,20091,2040871.0
+Johnson,Kentucky,21115,268987.0
+Johnson,Missouri,29101,0.0
+Johnson,Nebraska,31097,10605.0
+Johnson,Texas,48251,670329.0
+Johnson,Wyoming,56019,73506.0
+Johnston,North Carolina,37101,5599959.0
+Johnston,Oklahoma,40069,163115.0
+Jones,Georgia,13169,500365.0
+Jones,Iowa,19105,73037.0
+Jones,Mississippi,28067,248910.0
+Jones,North Carolina,37103,2519392.0
+Jones,Texas,48253,438151.0
+Josephine,Oregon,41033,931811.0
+Juab,Utah,49023,21379.0
+Juneau,Wisconsin,55057,72827.0
+Juniata,Pennsylvania,42067,277735.0
+Kalamazoo,Michigan,26077,1479232.0
+Kalkaska,Michigan,26079,173198.0
+Kanawha,West Virginia,54039,7204129.0
+Kandiyohi,Minnesota,27067,61031.0
+Kane,Illinois,17089,2221320.0
+Kankakee,Illinois,17091,452608.0
+Karnes,Texas,48255,92872.0
+Kaufman,Texas,48257,408463.0
+Kay,Oklahoma,40071,64247.0
+Keith,Nebraska,31101,116863.0
+Kemper,Mississippi,28069,38.0
+Kenai Peninsula,Alaska,2122,1834534.0
+Kendall,Illinois,17093,509599.0
+Kendall,Texas,48259,67509.0
+Kenedy,Texas,48261,17479.0
+Kennebec,Maine,23011,1657815.0
+Kenosha,Wisconsin,55059,667828.0
+Kent,Delaware,10001,456711.0
+Kent,Maryland,24029,0.0
+Kent,Michigan,26081,6386473.0
+Kent,Rhode Island,44003,4600325.0
+Kent,Texas,48263,1542.0
+Kenton,Kentucky,21117,1385581.0
+Keokuk,Iowa,19107,42031.0
+Kern,California,6029,3172736.0
+Kerr,Texas,48265,8784.0
+Kershaw,South Carolina,45055,374542.0
+Kewaunee,Wisconsin,55061,48350.0
+Keweenaw,Michigan,26083,23721.0
+Kidder,North Dakota,38043,309.0
+Kimball,Nebraska,31105,49.0
+Kimble,Texas,48267,82033.0
+King,Texas,48269,2512.0
+King,Washington,53033,10003261.0
+King George,Virginia,51099,1292228.0
+King William,Virginia,51101,804160.0
+King and Queen,Virginia,51097,1052321.0
+Kingfisher,Oklahoma,40073,86048.0
+Kingman,Kansas,20095,6694.0
+Kings,California,6031,428286.0
+Kings,New York,36047,1581840.0
+Kingsbury,South Dakota,46077,2449.0
+Kinney,Texas,48271,12651.0
+Kiowa,Colorado,8061,0.0
+Kiowa,Oklahoma,40075,135888.0
+Kit Carson,Colorado,8063,81089.0
+Kitsap,Washington,53035,4448561.0
+Kittitas,Washington,53037,250628.0
+Klamath,Oregon,41035,272170.0
+Kleberg,Texas,48273,285302.0
+Knott,Kentucky,21119,463328.0
+Knox,Illinois,17095,299635.0
+Knox,Indiana,18083,209084.0
+Knox,Kentucky,21121,44957.0
+Knox,Maine,23013,558771.0
+Knox,Missouri,29103,0.0
+Knox,Nebraska,31107,2945.0
+Knox,Ohio,39083,694351.0
+Knox,Tennessee,47093,2837498.0
+Knox,Texas,48275,51563.0
+Koochiching,Minnesota,27071,257168.0
+Kootenai,Idaho,16055,250251.0
+Kosciusko,Indiana,18085,366780.0
+Kossuth,Iowa,19109,53289.0
+La Crosse,Wisconsin,55063,314438.0
+La Paz,Arizona,4012,356808.0
+La Plata,Colorado,8067,331722.0
+La Salle,Texas,48283,104748.0
+LaGrange,Indiana,18087,175833.0
+LaMoure,North Dakota,38045,38442.0
+LaPorte,Indiana,18091,1098122.0
+LaSalle,Illinois,17099,952623.0
+LaSalle,Louisiana,22059,516189.0
+Labette,Kansas,20099,101436.0
+Lac qui Parle,Minnesota,27073,28.0
+Lackawanna,Pennsylvania,42069,1266894.0
+Laclede,Missouri,29105,55.0
+Lafayette,Arkansas,5073,25321.0
+Lafayette,Florida,12067,235196.0
+Lafayette,Louisiana,22055,479326.0
+Lafayette,Mississippi,28071,353114.0
+Lafayette,Missouri,29107,66145.0
+Lafayette,Wisconsin,55065,66019.0
+Lafourche,Louisiana,22057,1057596.0
+Lake,California,6033,3062720.0
+Lake,Colorado,8065,16670.0
+Lake,Florida,12069,1215126.0
+Lake,Illinois,17097,3549500.0
+Lake,Indiana,18089,2676148.0
+Lake,Michigan,26085,787034.0
+Lake,Minnesota,27075,196137.0
+Lake,Montana,30047,42331.0
+Lake,Ohio,39085,3220483.0
+Lake,Oregon,41037,14573.0
+Lake,South Dakota,46079,1194.0
+Lake,Tennessee,47095,19988.0
+Lamar,Alabama,1075,198292.0
+Lamar,Georgia,13171,170894.0
+Lamar,Mississippi,28073,264816.0
+Lamar,Texas,48277,160012.0
+Lamb,Texas,48279,22458.0
+Lamoille,Vermont,50015,503225.0
+Lampasas,Texas,48281,19431.0
+Lancaster,Nebraska,31109,0.0
+Lancaster,Pennsylvania,42071,1486717.0
+Lancaster,South Carolina,45057,1130128.0
+Lancaster,Virginia,51103,1558652.0
+Lander,Nevada,32015,160346.0
+Lane,Kansas,20101,0.0
+Lane,Oregon,41039,66028.0
+Langlade,Wisconsin,55067,219498.0
+Lanier,Georgia,13173,36444.0
+Lapeer,Michigan,26087,2614129.0
+Laramie,Wyoming,56021,65595.0
+Larimer,Colorado,8069,491398.0
+Larue,Kentucky,21123,60192.0
+Las Animas,Colorado,8071,0.0
+Lassen,California,6035,167.0
+Latah,Idaho,16057,253166.0
+Latimer,Oklahoma,40077,109938.0
+Lauderdale,Alabama,1077,841352.0
+Lauderdale,Mississippi,28075,364179.0
+Lauderdale,Tennessee,47097,15458.0
+Laurel,Kentucky,21125,183553.0
+Laurens,Georgia,13175,1511907.0
+Laurens,South Carolina,45059,551456.0
+Lavaca,Texas,48285,116761.0
+Lawrence,Alabama,1079,3372.0
+Lawrence,Arkansas,5075,173714.0
+Lawrence,Illinois,17101,60015.0
+Lawrence,Indiana,18093,642357.0
+Lawrence,Kentucky,21127,699779.0
+Lawrence,Mississippi,28077,104854.0
+Lawrence,Missouri,29109,296068.0
+Lawrence,Ohio,39087,659584.0
+Lawrence,Pennsylvania,42073,546998.0
+Lawrence,South Dakota,46081,33956.0
+Lawrence,Tennessee,47099,218.0
+Le Flore,Oklahoma,40079,403465.0
+Le Sueur,Minnesota,27079,476859.0
+Lea,New Mexico,35025,359709.0
+Leake,Mississippi,28079,141468.0
+Leavenworth,Kansas,20103,213948.0
+Lebanon,Pennsylvania,42075,1540507.0
+Lee,Alabama,1081,1058603.0
+Lee,Arkansas,5077,86515.0
+Lee,Florida,12071,1988033.0
+Lee,Georgia,13177,2399907.0
+Lee,Illinois,17103,113929.0
+Lee,Iowa,19111,386864.0
+Lee,Kentucky,21129,192725.0
+Lee,North Carolina,37105,2094330.0
+Lee,South Carolina,45061,46007.0
+Lee,Texas,48287,47151.0
+Lee,Virginia,51105,0.0
+Leelanau,Michigan,26089,445762.0
+Leflore,Mississippi,28083,116941.0
+Lehigh,Pennsylvania,42077,3773388.0
+Lemhi,Idaho,16059,137242.0
+Lenawee,Michigan,26091,962174.0
+Lenoir,North Carolina,37107,2429094.0
+Leon,Florida,12073,37528965.0
+Leon,Texas,48289,152667.0
+Leslie,Kentucky,21131,532085.0
+Letcher,Kentucky,21133,706546.0
+Levy,Florida,12075,298368.0
+Lewis,Idaho,16061,46184.0
+Lewis,Kentucky,21135,18957.0
+Lewis,Missouri,29111,23986.0
+Lewis,New York,36049,692334.0
+Lewis,Tennessee,47101,800.0
+Lewis,Washington,53041,6.0
+Lewis,West Virginia,54041,393017.0
+Lexington,South Carolina,45063,2340367.0
+Lexington,Virginia,51678,58662.0
+Liberty,Florida,12077,2834137.0
+Liberty,Georgia,13179,200785.0
+Liberty,Texas,48291,996627.0
+Licking,Ohio,39089,1949204.0
+Limestone,Alabama,1083,3066.0
+Limestone,Texas,48293,167560.0
+Lincoln,Arkansas,5079,28020.0
+Lincoln,Colorado,8073,25763.0
+Lincoln,Georgia,13181,122472.0
+Lincoln,Idaho,16063,143784.0
+Lincoln,Kansas,20105,37914.0
+Lincoln,Kentucky,21137,24705.0
+Lincoln,Louisiana,22061,418631.0
+Lincoln,Maine,23015,2049559.0
+Lincoln,Minnesota,27081,4327.0
+Lincoln,Mississippi,28085,257651.0
+Lincoln,Missouri,29113,309703.0
+Lincoln,Montana,30053,302757.0
+Lincoln,Nebraska,31111,1001.0
+Lincoln,New Mexico,35027,134220.0
+Lincoln,North Carolina,37109,1024850.0
+Lincoln,Oklahoma,40081,198179.0
+Lincoln,Oregon,41041,178279.0
+Lincoln,South Dakota,46083,35644.0
+Lincoln,Tennessee,47103,7792.0
+Lincoln,Washington,53043,0.0
+Lincoln,West Virginia,54043,2003018.0
+Lincoln,Wisconsin,55069,193480.0
+Lincoln,Wyoming,56023,32522.0
+Linn,Iowa,19113,474250.0
+Linn,Kansas,20107,44105.0
+Linn,Missouri,29115,6648.0
+Linn,Oregon,41043,552546.0
+Lipscomb,Texas,48295,99020.0
+Litchfield,Connecticut,9005,2571754.0
+Little River,Arkansas,5081,92671.0
+Live Oak,Texas,48297,197831.0
+Livingston,Illinois,17105,282697.0
+Livingston,Kentucky,21139,226062.0
+Livingston,Louisiana,22063,688948.0
+Livingston,Michigan,26093,1912366.0
+Livingston,Missouri,29117,221.0
+Livingston,New York,36051,972905.0
+Llano,Texas,48299,5335.0
+Logan,Arkansas,5083,97094.0
+Logan,Colorado,8075,36936.0
+Logan,Illinois,17107,101099.0
+Logan,Kansas,20109,64593.0
+Logan,Kentucky,21141,175854.0
+Logan,North Dakota,38047,4751.0
+Logan,Ohio,39091,191710.0
+Logan,Oklahoma,40083,136487.0
+Logan,West Virginia,54045,1246752.0
+Long,Georgia,13183,113588.0
+Lonoke,Arkansas,5085,664708.0
+Lorain,Ohio,39093,1632484.0
+Los Alamos,New Mexico,35028,0.0
+Los Angeles,California,6037,62286174.0
+Loudon,Tennessee,47105,52249.0
+Loudoun,Virginia,51107,4241403.0
+Louisa,Iowa,19115,199719.0
+Louisa,Virginia,51109,929720.0
+Love,Oklahoma,40085,57871.0
+Loving,Texas,48301,112868.0
+Lowndes,Alabama,1085,231413.0
+Lowndes,Georgia,13185,439910.0
+Lowndes,Mississippi,28087,111518.0
+Lubbock,Texas,48303,83990.0
+Lucas,Iowa,19117,10880.0
+Lucas,Ohio,39095,816633.0
+Lumpkin,Georgia,13187,431276.0
+Luna,New Mexico,35029,106058.0
+Lunenburg,Virginia,51111,2376501.0
+Luzerne,Pennsylvania,42079,1248147.0
+Lycoming,Pennsylvania,42081,892963.0
+Lynchburg,Virginia,51680,3268682.0
+Lynn,Texas,48305,29728.0
+Lyon,Iowa,19119,27162.0
+Lyon,Kansas,20111,93338.0
+Lyon,Kentucky,21143,114897.0
+Lyon,Minnesota,27083,23882.0
+Lyon,Nevada,32019,447933.0
+Macomb,Michigan,26099,8316277.0
+Macon,Alabama,1087,163505.0
+Macon,Georgia,13193,710108.0
+Macon,Illinois,17115,347781.0
+Macon,Missouri,29121,0.0
+Macon,North Carolina,37113,1318883.0
+Macon,Tennessee,47111,427270.0
+Macoupin,Illinois,17117,167931.0
+Madera,California,6039,421513.0
+Madison,Alabama,1089,1157578.0
+Madison,Arkansas,5087,230368.0
+Madison,Florida,12079,224465.0
+Madison,Georgia,13195,79992.0
+Madison,Idaho,16065,459476.0
+Madison,Illinois,17119,1873212.0
+Madison,Indiana,18095,1092846.0
+Madison,Iowa,19121,60720.0
+Madison,Kentucky,21151,338086.0
+Madison,Louisiana,22065,110400.0
+Madison,Mississippi,28089,776056.0
+Madison,Missouri,29123,26876.0
+Madison,Montana,30057,85.0
+Madison,Nebraska,31119,37350.0
+Madison,New York,36053,843183.0
+Madison,North Carolina,37115,10265.0
+Madison,Ohio,39097,366533.0
+Madison,Tennessee,47113,686623.0
+Madison,Texas,48313,53499.0
+Madison,Virginia,51113,1115534.0
+Magoffin,Kentucky,21153,89966.0
+Mahaska,Iowa,19123,101395.0
+Mahoning,Ohio,39099,1307627.0
+Major,Oklahoma,40093,83452.0
+Malheur,Oregon,41045,85763.0
+Manassas,Virginia,51683,0.0
+Manassas Park,Virginia,51685,0.0
+Manatee,Florida,12081,1746396.0
+Manistee,Michigan,26101,315485.0
+Manitowoc,Wisconsin,55071,88899.0
+Marathon,Wisconsin,55073,257947.0
+Marengo,Alabama,1091,126047.0
+Maricopa,Arizona,4013,14969677.0
+Maries,Missouri,29125,41247.0
+Marin,California,6041,885627.0
+Marinette,Wisconsin,55075,291823.0
+Marion,Alabama,1093,305711.0
+Marion,Arkansas,5089,264578.0
+Marion,Florida,12083,2010409.0
+Marion,Georgia,13197,149676.0
+Marion,Illinois,17121,190828.0
+Marion,Indiana,18097,5460197.0
+Marion,Iowa,19125,79864.0
+Marion,Kansas,20115,36973.0
+Marion,Kentucky,21155,42117.0
+Marion,Mississippi,28091,98630.0
+Marion,Missouri,29127,0.0
+Marion,Ohio,39101,266844.0
+Marion,Oregon,41047,1339743.0
+Marion,South Carolina,45067,2285926.0
+Marion,Tennessee,47115,2415.0
+Marion,Texas,48315,2.0
+Marion,West Virginia,54049,682689.0
+Mariposa,California,6043,896338.0
+Marlboro,South Carolina,45069,901401.0
+Marquette,Michigan,26103,151795.0
+Marquette,Wisconsin,55077,638832.0
+Marshall,Alabama,1095,3541.0
+Marshall,Illinois,17123,137460.0
+Marshall,Indiana,18099,128980.0
+Marshall,Iowa,19127,2153213.0
+Marshall,Kansas,20117,37746.0
+Marshall,Kentucky,21157,233579.0
+Marshall,Mississippi,28093,43690.0
+Marshall,Oklahoma,40095,170882.0
+Marshall,Tennessee,47117,128063.0
+Marshall,West Virginia,54051,1262659.0
+Martin,Florida,12085,623033.0
+Martin,Indiana,18101,40007.0
+Martin,Kentucky,21159,414165.0
+Martin,Minnesota,27091,197.0
+Martin,North Carolina,37117,117659.0
+Martin,Texas,48317,104163.0
+Martinsville,Virginia,51690,360.0
+Mason,Illinois,17125,41777.0
+Mason,Kentucky,21161,29683.0
+Mason,Michigan,26105,1172862.0
+Mason,Texas,48319,303.0
+Mason,Washington,53045,27.0
+Mason,West Virginia,54053,1036509.0
+Massac,Illinois,17127,45751.0
+Matagorda,Texas,48321,489213.0
+Matanuska-Susitna,Alaska,2170,1908371.0
+Mathews,Virginia,51115,1843332.0
+Maury,Tennessee,47119,145288.0
+Maverick,Texas,48323,516769.0
+Mayes,Oklahoma,40097,258971.0
+McClain,Oklahoma,40087,269144.0
+McCone,Montana,30055,0.0
+McCook,South Dakota,46087,6015.0
+McCormick,South Carolina,45065,211805.0
+McCracken,Kentucky,21145,468359.0
+McCreary,Kentucky,21147,48150.0
+McCulloch,Texas,48307,50413.0
+McCurtain,Oklahoma,40089,269399.0
+McDonald,Missouri,29119,8396.0
+McDonough,Illinois,17109,51593.0
+McDowell,North Carolina,37111,731317.0
+McDowell,West Virginia,54047,1128136.0
+McDuffie,Georgia,13189,89636.0
+McHenry,Illinois,17111,1786766.0
+McHenry,North Dakota,38049,0.0
+McIntosh,Georgia,13191,263411.0
+McIntosh,North Dakota,38051,3758.0
+McIntosh,Oklahoma,40091,63797.0
+McKean,Pennsylvania,42083,464623.0
+McKenzie,North Dakota,38053,72838.0
+McKinley,New Mexico,35031,0.0
+McLean,Illinois,17113,504465.0
+McLean,Kentucky,21149,131880.0
+McLennan,Texas,48309,1144871.0
+McLeod,Minnesota,27085,56576.0
+McMinn,Tennessee,47107,133.0
+McMullen,Texas,48311,15019.0
+McNairy,Tennessee,47109,24.0
+McPherson,Kansas,20113,6770.0
+McPherson,South Dakota,46089,0.0
+Meade,Kentucky,21163,135216.0
+Meade,South Dakota,46093,108894.0
+Mecklenburg,North Carolina,37119,20103780.0
+Mecklenburg,Virginia,51117,1982620.0
+Mecosta,Michigan,26107,951301.0
+Medina,Ohio,39103,562417.0
+Medina,Texas,48325,356513.0
+Meeker,Minnesota,27093,18401.0
+Meigs,Ohio,39105,720771.0
+Menard,Illinois,17129,34568.0
+Menard,Texas,48327,38197.0
+Mendocino,California,6045,1726443.0
+Menifee,Kentucky,21165,130369.0
+Menominee,Michigan,26109,115748.0
+Menominee,Wisconsin,55078,157663.0
+Merced,California,6047,416489.0
+Mercer,Illinois,17131,137289.0
+Mercer,Kentucky,21167,107502.0
+Mercer,Missouri,29129,1626.0
+Mercer,New Jersey,34021,4045057.0
+Mercer,North Dakota,38057,12459.0
+Mercer,Ohio,39107,57048.0
+Mercer,Pennsylvania,42085,888760.0
+Mercer,West Virginia,54055,2798672.0
+Meriwether,Georgia,13199,239661.0
+Merrimack,New Hampshire,33013,1591902.0
+Mesa,Colorado,8077,321936.0
+Metcalfe,Kentucky,21169,35228.0
+Miami,Indiana,18103,44826.0
+Miami,Kansas,20121,182951.0
+Miami,Ohio,39109,295768.0
+Miami-Dade,Florida,12086,9814525.0
+Middlesex,Connecticut,9007,6116244.0
+Middlesex,Massachusetts,25017,28304035.0
+Middlesex,New Jersey,34023,5136722.0
+Middlesex,Virginia,51119,1653894.0
+Midland,Michigan,26111,1370208.0
+Midland,Texas,48329,951039.0
+Mifflin,Pennsylvania,42087,546151.0
+Milam,Texas,48331,209043.0
+Millard,Utah,49027,51144.0
+Miller,Arkansas,5091,364424.0
+Miller,Georgia,13201,604936.0
+Miller,Missouri,29131,92532.0
+Mills,Iowa,19129,220733.0
+Mills,Texas,48333,11308.0
+Milwaukee,Wisconsin,55079,3174611.0
+Miner,South Dakota,46097,1176.0
+Mineral,Colorado,8079,260.0
+Mineral,Montana,30061,400.0
+Mineral,Nevada,32021,56761.0
+Mineral,West Virginia,54057,281405.0
+Mingo,West Virginia,54059,1062004.0
+Minidoka,Idaho,16067,36692.0
+Minnehaha,South Dakota,46099,589954.0
+Missaukee,Michigan,26113,523855.0
+Mississippi,Arkansas,5093,724335.0
+Mississippi,Missouri,29133,16904.0
+Mitchell,Georgia,13205,969280.0
+Mitchell,Iowa,19131,52950.0
+Mitchell,North Carolina,37121,417896.0
+Mitchell,Texas,48335,265932.0
+Mobile,Alabama,1097,3454988.0
+Modoc,California,6049,48912.0
+Moffat,Colorado,8081,0.0
+Mohave,Arizona,4015,278581.0
+Moniteau,Missouri,29135,6231.0
+Monmouth,New Jersey,34025,6849899.0
+Mono,California,6051,419508.0
+Monona,Iowa,19133,11314.0
+Monongalia,West Virginia,54061,803072.0
+Monroe,Alabama,1099,159858.0
+Monroe,Arkansas,5095,351709.0
+Monroe,Florida,12087,929684.0
+Monroe,Georgia,13207,303900.0
+Monroe,Illinois,17133,96955.0
+Monroe,Indiana,18105,1179042.0
+Monroe,Iowa,19135,112227.0
+Monroe,Kentucky,21171,66618.0
+Monroe,Michigan,26115,3933922.0
+Monroe,Mississippi,28095,10151.0
+Monroe,Missouri,29137,3.0
+Monroe,New York,36055,4171299.0
+Monroe,Ohio,39111,184523.0
+Monroe,Pennsylvania,42089,20320666.0
+Monroe,Tennessee,47123,371955.0
+Monroe,West Virginia,54063,548986.0
+Monroe,Wisconsin,55081,60769.0
+Montague,Texas,48337,48751.0
+Montcalm,Michigan,26117,1495401.0
+Monterey,California,6053,1575717.0
+Montezuma,Colorado,8083,7.0
+Montgomery,Alabama,1101,1567406.0
+Montgomery,Arkansas,5097,298411.0
+Montgomery,Georgia,13209,195640.0
+Montgomery,Illinois,17135,97352.0
+Montgomery,Indiana,18107,118758.0
+Montgomery,Iowa,19137,52281.0
+Montgomery,Kansas,20125,115424.0
+Montgomery,Kentucky,21173,388997.0
+Montgomery,Maryland,24031,9751916.0
+Montgomery,Mississippi,28097,146583.0
+Montgomery,Missouri,29139,203.0
+Montgomery,New York,36057,790606.0
+Montgomery,North Carolina,37123,2460982.0
+Montgomery,Ohio,39113,2719549.0
+Montgomery,Pennsylvania,42091,23357243.0
+Montgomery,Tennessee,47125,596313.0
+Montgomery,Texas,48339,3189923.0
+Montgomery,Virginia,51121,4684852.0
+Montmorency,Michigan,26119,45431.0
+Montour,Pennsylvania,42093,126782.0
+Montrose,Colorado,8085,0.0
+Moody,South Dakota,46101,15573.0
+Moore,North Carolina,37125,7084466.0
+Moore,Tennessee,47127,40244.0
+Moore,Texas,48341,115279.0
+Morehouse,Louisiana,22067,222884.0
+Morgan,Alabama,1103,40749.0
+Morgan,Colorado,8087,275328.0
+Morgan,Georgia,13211,188310.0
+Morgan,Illinois,17137,152676.0
+Morgan,Indiana,18109,403737.0
+Morgan,Kentucky,21175,19633.0
+Morgan,Missouri,29141,70.0
+Morgan,Ohio,39115,299821.0
+Morgan,Tennessee,47129,9873.0
+Morgan,Utah,49029,65006.0
+Morgan,West Virginia,54065,500243.0
+Morrill,Nebraska,31123,5893.0
+Morris,Kansas,20127,20240.0
+Morris,New Jersey,34027,30450780.0
+Morris,Texas,48343,281916.0
+Morrison,Minnesota,27097,202497.0
+Morrow,Ohio,39117,203284.0
+Morrow,Oregon,41049,80844.0
+Morton,Kansas,20129,11904.0
+Morton,North Dakota,38059,57736.0
+Motley,Texas,48345,8967.0
+Moultrie,Illinois,17139,19364.0
+Mountrail,North Dakota,38061,206.0
+Mower,Minnesota,27099,1084.0
+Muhlenberg,Kentucky,21177,181555.0
+Multnomah,Oregon,41051,3962449.0
+Murray,Georgia,13213,564628.0
+Murray,Minnesota,27101,45996.0
+Murray,Oklahoma,40099,183718.0
+Muscatine,Iowa,19139,72647.0
+Muscogee,Georgia,13215,749974.0
+Muskegon,Michigan,26121,1425580.0
+Muskingum,Ohio,39119,798783.0
+Muskogee,Oklahoma,40101,190744.0
+Nacogdoches,Texas,48347,488562.0
+Nantucket,Massachusetts,25019,271813.0
+Napa,California,6055,1311350.0
+Nash,North Carolina,37127,1116558.0
+Nassau,Florida,12089,893034.0
+Nassau,New York,36059,7336480.0
+Natchitoches,Louisiana,22069,861449.0
+Natrona,Wyoming,56025,189555.0
+Navajo,Arizona,4017,1526430.0
+Navarro,Texas,48349,351645.0
+Nelson,Kentucky,21179,360639.0
+Nelson,Virginia,51125,1051303.0
+Nemaha,Kansas,20131,2149.0
+Nemaha,Nebraska,31127,12139.0
+Neosho,Kansas,20133,11320.0
+Neshoba,Mississippi,28099,8706.0
+Ness,Kansas,20135,7343.0
+Nevada,Arkansas,5099,35711.0
+Nevada,California,6057,470847.0
+New Castle,Delaware,10003,3782375.0
+New Hanover,North Carolina,37129,47318253.0
+New Haven,Connecticut,9009,10352773.0
+New Kent,Virginia,51127,2489705.0
+New London,Connecticut,9011,4420613.0
+New Madrid,Missouri,29143,73257.0
+New York,New York,36061,0.0
+Newaygo,Michigan,26123,848935.0
+Newberry,South Carolina,45071,165454.0
+Newport,Rhode Island,44005,959200.0
+Newport News,Virginia,51700,4081791.0
+Newton,Arkansas,5101,22454.0
+Newton,Georgia,13217,143206.0
+Newton,Indiana,18111,126030.0
+Newton,Mississippi,28101,154015.0
+Newton,Missouri,29145,348333.0
+Newton,Texas,48351,806.0
+Nez Perce,Idaho,16069,195936.0
+Niagara,New York,36063,1440841.0
+Nicholas,Kentucky,21181,29191.0
+Nicholas,West Virginia,54067,901046.0
+Nicollet,Minnesota,27103,15090.0
+Niobrara,Wyoming,56027,4.0
+Noble,Indiana,18113,192279.0
+Noble,Ohio,39121,160125.0
+Noble,Oklahoma,40103,34969.0
+Nobles,Minnesota,27105,99.0
+Nodaway,Missouri,29147,96054.0
+Nolan,Texas,48353,95244.0
+Norfolk,Massachusetts,25021,14752727.0
+Norfolk,Virginia,51710,3072106.0
+Norman,Minnesota,27107,1093.0
+Northampton,North Carolina,37131,202607.0
+Northampton,Pennsylvania,42095,9454392.0
+Northampton,Virginia,51131,9623.0
+Northumberland,Pennsylvania,42097,804588.0
+Northumberland,Virginia,51133,1628376.0
+Norton,Kansas,20137,1719.0
+Norton,Virginia,51720,0.0
+Nottoway,Virginia,51135,2100202.0
+Nowata,Oklahoma,40105,163273.0
+Noxubee,Mississippi,28103,36327.0
+Nueces,Texas,48355,2839940.0
+Nye,Nevada,32023,104060.0
+O'Brien,Iowa,19141,39936.0
+Oakland,Michigan,26125,30978430.0
+Obion,Tennessee,47131,157149.0
+Ocean,New Jersey,34029,4598910.0
+Oceana,Michigan,26127,556146.0
+Ochiltree,Texas,48357,65989.0
+Oconee,Georgia,13219,223790.0
+Oconee,South Carolina,45073,970368.0
+Oconto,Wisconsin,55083,188804.0
+Ogemaw,Michigan,26129,1686106.0
+Oglala Lakota,South Dakota,46102,825.0
+Ogle,Illinois,17141,234155.0
+Oglethorpe,Georgia,13221,109995.0
+Ohio,Indiana,18115,0.0
+Ohio,Kentucky,21183,215426.0
+Ohio,West Virginia,54069,1206043.0
+Okaloosa,Florida,12091,801625.0
+Okeechobee,Florida,12093,149596.0
+Okfuskee,Oklahoma,40107,31233.0
+Oklahoma,Oklahoma,40109,3132436.0
+Okmulgee,Oklahoma,40111,400233.0
+Oktibbeha,Mississippi,28105,137521.0
+Oldham,Kentucky,21185,1733614.0
+Oldham,Texas,48359,6552.0
+Oliver,North Dakota,38065,1751.0
+Olmsted,Minnesota,27109,34448.0
+Oneida,Idaho,16071,17408.0
+Oneida,New York,36065,2802116.0
+Oneida,Wisconsin,55085,308557.0
+Onondaga,New York,36067,1930472.0
+Onslow,North Carolina,37133,28214795.0
+Ontario,New York,36069,831098.0
+Ontonagon,Michigan,26131,21258.0
+Orange,California,6059,3027027.0
+Orange,Florida,12095,3384736.0
+Orange,Indiana,18117,141592.0
+Orange,New York,36071,12911207.0
+Orange,North Carolina,37135,5093470.0
+Orange,Texas,48361,145455.0
+Orange,Vermont,50017,1721216.0
+Orange,Virginia,51137,1436986.0
+Orangeburg,South Carolina,45075,376401.0
+Oregon,Missouri,29149,0.0
+Orleans,Louisiana,22071,3417823.0
+Orleans,New York,36073,548483.0
+Orleans,Vermont,50019,725832.0
+Osage,Kansas,20139,146815.0
+Osage,Missouri,29151,35468.0
+Osage,Oklahoma,40113,340225.0
+Osborne,Kansas,20141,18.0
+Osceola,Florida,12097,1027000.0
+Osceola,Iowa,19143,24046.0
+Osceola,Michigan,26133,708800.0
+Oscoda,Michigan,26135,196756.0
+Oswego,New York,36075,2324767.0
+Otero,Colorado,8089,10167.0
+Otero,New Mexico,35035,113194.0
+Otoe,Nebraska,31131,33667.0
+Otsego,Michigan,26137,439584.0
+Otsego,New York,36077,580520.0
+Ottawa,Kansas,20143,76299.0
+Ottawa,Michigan,26139,1217206.0
+Ottawa,Ohio,39123,321462.0
+Ottawa,Oklahoma,40115,182524.0
+Otter Tail,Minnesota,27111,393331.0
+Ouachita,Arkansas,5103,226255.0
+Ouachita,Louisiana,22073,1631231.0
+Ouray,Colorado,8091,0.0
+Outagamie,Wisconsin,55087,397872.0
+Overton,Tennessee,47133,34254.0
+Owen,Indiana,18119,418083.0
+Owen,Kentucky,21187,106634.0
+Owsley,Kentucky,21189,2004.0
+Owyhee,Idaho,16073,42119.0
+Oxford,Maine,23017,3954740.0
+Ozaukee,Wisconsin,55089,514399.0
+Page,Iowa,19145,72993.0
+Page,Virginia,51139,307501.0
+Palm Beach,Florida,12099,4755832.0
+Palo Alto,Iowa,19147,37553.0
+Palo Pinto,Texas,48363,658288.0
+Pamlico,North Carolina,37137,4373574.0
+Panola,Mississippi,28107,288953.0
+Panola,Texas,48365,172666.0
+Park,Colorado,8093,191191.0
+Park,Montana,30067,27372.0
+Park,Wyoming,56029,32078.0
+Parke,Indiana,18121,23470.0
+Parker,Texas,48367,1224162.0
+Parmer,Texas,48369,37840.0
+Pasco,Florida,12101,2117647.0
+Pasquotank,North Carolina,37139,23636.0
+Passaic,New Jersey,34031,4762090.0
+Patrick,Virginia,51141,3360218.0
+Paulding,Georgia,13223,342217.0
+Paulding,Ohio,39125,88736.0
+Pawnee,Kansas,20145,34705.0
+Pawnee,Nebraska,31133,13041.0
+Pawnee,Oklahoma,40117,78632.0
+Payette,Idaho,16075,61082.0
+Payne,Oklahoma,40119,76275.0
+Peach,Georgia,13225,221526.0
+Pearl River,Mississippi,28109,68471.0
+Pecos,Texas,48371,236686.0
+Pemiscot,Missouri,29155,84468.0
+Pend Oreille,Washington,53051,924.0
+Pender,North Carolina,37141,9729888.0
+Pendleton,Kentucky,21191,124821.0
+Pendleton,West Virginia,54071,549534.0
+Pennington,South Dakota,46103,397605.0
+Penobscot,Maine,23019,3401463.0
+Peoria,Illinois,17143,897749.0
+Pepin,Wisconsin,55091,24626.0
+Perkins,Nebraska,31135,12326.0
+Perkins,South Dakota,46105,12216.0
+Perquimans,North Carolina,37143,8967.0
+Perry,Alabama,1105,205107.0
+Perry,Arkansas,5105,327194.0
+Perry,Illinois,17145,318673.0
+Perry,Indiana,18123,922.0
+Perry,Kentucky,21193,653310.0
+Perry,Mississippi,28111,90282.0
+Perry,Missouri,29157,106907.0
+Perry,Ohio,39127,989209.0
+Perry,Pennsylvania,42099,801383.0
+Pershing,Nevada,32027,13604.0
+Person,North Carolina,37145,1778748.0
+Petersburg,Virginia,51730,674484.0
+Pettis,Missouri,29159,50929.0
+Phelps,Missouri,29161,41692.0
+Philadelphia,Pennsylvania,42101,8550042.0
+Phillips,Arkansas,5107,184628.0
+Phillips,Kansas,20147,0.0
+Piatt,Illinois,17147,111198.0
+Pickaway,Ohio,39129,460769.0
+Pickens,Alabama,1107,261069.0
+Pickens,Georgia,13227,671140.0
+Pickens,South Carolina,45077,2105902.0
+Pierce,Georgia,13229,141161.0
+Pierce,Nebraska,31139,0.0
+Pierce,Washington,53053,2080496.0
+Pierce,Wisconsin,55093,58222.0
+Pike,Alabama,1109,138759.0
+Pike,Arkansas,5109,71539.0
+Pike,Georgia,13231,153296.0
+Pike,Illinois,17149,203215.0
+Pike,Indiana,18125,176614.0
+Pike,Kentucky,21195,1768053.0
+Pike,Mississippi,28113,632239.0
+Pike,Missouri,29163,27446.0
+Pike,Ohio,39131,660016.0
+Pike,Pennsylvania,42103,15489744.0
+Pima,Arizona,4019,1299393.0
+Pinal,Arizona,4021,1878885.0
+Pine,Minnesota,27115,117693.0
+Pinellas,Florida,12103,6170638.0
+Pipestone,Minnesota,27117,134808.0
+Piscataquis,Maine,23021,1195688.0
+Pitkin,Colorado,8097,62181.0
+Pitt,North Carolina,37147,785494.0
+Pittsburg,Oklahoma,40121,331714.0
+Pittsylvania,Virginia,51143,1826506.0
+Piute,Utah,49031,22422.0
+Placer,California,6061,997909.0
+Plaquemines,Louisiana,22075,378228.0
+Platte,Missouri,29165,615778.0
+Platte,Wyoming,56031,14797.0
+Pleasants,West Virginia,54073,240962.0
+Plumas,California,6063,719699.0
+Plymouth,Iowa,19149,51813.0
+Plymouth,Massachusetts,25023,35584151.0
+Pocahontas,Iowa,19151,25530.0
+Pocahontas,West Virginia,54075,427752.0
+Poinsett,Arkansas,5111,381495.0
+Pointe Coupee,Louisiana,22077,204082.0
+Polk,Arkansas,5113,34880.0
+Polk,Florida,12105,1534538.0
+Polk,Georgia,13233,267965.0
+Polk,Iowa,19153,1547315.0
+Polk,Minnesota,27119,0.0
+Polk,Missouri,29167,171504.0
+Polk,North Carolina,37149,1726582.0
+Polk,Oregon,41053,352071.0
+Polk,Tennessee,47139,226.0
+Polk,Texas,48373,368427.0
+Polk,Wisconsin,55095,205903.0
+Pontotoc,Mississippi,28115,12432.0
+Pontotoc,Oklahoma,40123,336375.0
+Pope,Arkansas,5115,955556.0
+Pope,Illinois,17151,89941.0
+Pope,Minnesota,27121,21100.0
+Poquoson,Virginia,51735,345161.0
+Portage,Ohio,39133,1215369.0
+Portage,Wisconsin,55097,157848.0
+Porter,Indiana,18127,2050399.0
+Portsmouth,Virginia,51740,1687701.0
+Posey,Indiana,18129,124848.0
+Pottawatomie,Kansas,20149,24998.0
+Pottawatomie,Oklahoma,40125,354153.0
+Pottawattamie,Iowa,19155,441987.0
+Potter,Pennsylvania,42105,251532.0
+Potter,South Dakota,46107,222.0
+Potter,Texas,48375,490648.0
+Powder River,Montana,30075,573.0
+Powell,Kentucky,21197,244891.0
+Power,Idaho,16077,28545.0
+Poweshiek,Iowa,19157,95554.0
+Powhatan,Virginia,51145,2587289.0
+Prairie,Arkansas,5117,306787.0
+Prairie,Montana,30079,705.0
+Pratt,Kansas,20151,3239.0
+Preble,Ohio,39135,386701.0
+Presidio,Texas,48377,71109.0
+Presque Isle,Michigan,26141,5008.0
+Preston,West Virginia,54077,307137.0
+Price,Wisconsin,55099,22462.0
+Prince Edward,Virginia,51147,4332179.0
+Prince George,Virginia,51149,613978.0
+Prince George's,Maryland,24033,9595324.0
+Prince William,Virginia,51153,3254161.0
+Providence,Rhode Island,44007,10159773.0
+Prowers,Colorado,8099,0.0
+Pueblo,Colorado,8101,91016.0
+Pulaski,Arkansas,5119,7609037.0
+Pulaski,Georgia,13235,519658.0
+Pulaski,Illinois,17153,40060.0
+Pulaski,Indiana,18131,62092.0
+Pulaski,Kentucky,21199,93688.0
+Pulaski,Missouri,29169,543.0
+Pulaski,Virginia,51155,4461225.0
+Pushmataha,Oklahoma,40127,234331.0
+Putnam,Florida,12107,495813.0
+Putnam,Georgia,13237,368667.0
+Putnam,Illinois,17155,44300.0
+Putnam,Indiana,18133,103164.0
+Putnam,Missouri,29171,0.0
+Putnam,New York,36079,18574350.0
+Putnam,Ohio,39137,64580.0
+Putnam,West Virginia,54079,1728451.0
+Quay,New Mexico,35037,20539.0
+Queen Anne's,Maryland,24035,340313.0
+Queens,New York,36081,3006123.0
+Quitman,Georgia,13239,265324.0
+Quitman,Mississippi,28119,68943.0
+Rabun,Georgia,13241,1110002.0
+Racine,Wisconsin,55101,549660.0
+Radford,Virginia,51750,31166.0
+Rains,Texas,48379,18310.0
+Raleigh,West Virginia,54081,4379234.0
+Ralls,Missouri,29173,18401.0
+Ramsey,Minnesota,27123,1741223.0
+Randall,Texas,48381,319426.0
+Randolph,Alabama,1111,435325.0
+Randolph,Arkansas,5121,77439.0
+Randolph,Georgia,13243,1518613.0
+Randolph,Illinois,17157,190661.0
+Randolph,Indiana,18135,122689.0
+Randolph,Missouri,29175,10707.0
+Randolph,North Carolina,37151,5558171.0
+Randolph,West Virginia,54083,440880.0
+Rankin,Mississippi,28121,867067.0
+Ransom,North Dakota,38073,20320.0
+Rapides,Louisiana,22079,1923033.0
+Rappahannock,Virginia,51157,1184212.0
+Rawlins,Kansas,20153,16605.0
+Ray,Missouri,29177,121497.0
+Reagan,Texas,48383,89402.0
+Real,Texas,48385,24256.0
+Red River,Louisiana,22081,566363.0
+Red River,Texas,48387,68083.0
+Red Willow,Nebraska,31145,16685.0
+Redwood,Minnesota,27127,33996.0
+Reeves,Texas,48389,196217.0
+Refugio,Texas,48391,146683.0
+Reno,Kansas,20155,422117.0
+Rensselaer,New York,36083,2099658.0
+Renville,Minnesota,27129,29135.0
+Renville,North Dakota,38075,6453.0
+Reynolds,Missouri,29179,3210.0
+Rice,Kansas,20159,15173.0
+Rice,Minnesota,27131,1102837.0
+Rich,Utah,49033,63037.0
+Richardson,Nebraska,31147,31765.0
+Richland,Illinois,17159,47153.0
+Richland,Louisiana,22083,207455.0
+Richland,Montana,30083,107652.0
+Richland,North Dakota,38077,57493.0
+Richland,Ohio,39139,752878.0
+Richland,South Carolina,45079,2228634.0
+Richland,Wisconsin,55103,28314.0
+Richmond,Georgia,13245,971200.0
+Richmond,New York,36085,0.0
+Richmond,North Carolina,37153,3079874.0
+Richmond,Virginia,51159,0.0
+Richmond,Virginia,51760,650710.0
+Riley,Kansas,20161,318330.0
+Ringgold,Iowa,19159,35807.0
+Rio Arriba,New Mexico,35039,335.0
+Rio Blanco,Colorado,8103,31.0
+Rio Grande,Colorado,8105,59111.0
+Ripley,Indiana,18137,335066.0
+Ritchie,West Virginia,54085,377273.0
+Riverside,California,6065,11207549.0
+Roane,Tennessee,47145,1465.0
+Roane,West Virginia,54087,913316.0
+Roanoke,Virginia,51161,0.0
+Roanoke,Virginia,51770,3804324.0
+Roberts,Texas,48393,30891.0
+Robertson,Kentucky,21201,20529.0
+Robertson,Tennessee,47147,671356.0
+Robertson,Texas,48395,35624.0
+Robeson,North Carolina,37155,12610403.0
+Rock,Minnesota,27133,109424.0
+Rock,Nebraska,31149,7462.0
+Rock,Wisconsin,55105,318340.0
+Rock Island,Illinois,17161,425576.0
+Rockbridge,Virginia,51163,149262.0
+Rockcastle,Kentucky,21203,57274.0
+Rockdale,Georgia,13247,187701.0
+Rockingham,New Hampshire,33015,3719697.0
+Rockingham,North Carolina,37157,8931665.0
+Rockingham,Virginia,51165,2648208.0
+Rockland,New York,36087,5825215.0
+Rockwall,Texas,48397,502587.0
+Roger Mills,Oklahoma,40129,23332.0
+Rogers,Oklahoma,40131,324322.0
+Rooks,Kansas,20163,71.0
+Roosevelt,Montana,30085,16697.0
+Roosevelt,New Mexico,35041,10869.0
+Roscommon,Michigan,26143,2363156.0
+Rosebud,Montana,30087,36779.0
+Ross,Ohio,39141,1179482.0
+Routt,Colorado,8107,0.0
+Rowan,Kentucky,21205,104354.0
+Rowan,North Carolina,37159,4914376.0
+Runnels,Texas,48399,25174.0
+Rush,Indiana,18139,208759.0
+Rush,Kansas,20165,13916.0
+Rusk,Texas,48401,746068.0
+Rusk,Wisconsin,55107,26609.0
+Russell,Alabama,1113,492229.0
+Russell,Kansas,20167,45644.0
+Russell,Kentucky,21207,28693.0
+Russell,Virginia,51167,735749.0
+Rutherford,North Carolina,37161,3293864.0
+Rutherford,Tennessee,47149,256420.0
+Rutland,Vermont,50021,1269855.0
+Sabine,Louisiana,22085,627808.0
+Sac,Iowa,19161,27495.0
+Sacramento,California,6067,2696357.0
+Sagadahoc,Maine,23023,957978.0
+Saginaw,Michigan,26145,2141265.0
+Saguache,Colorado,8109,7482.0
+Salem,New Jersey,34033,1819184.0
+Salem,Virginia,51775,24.0
+Saline,Arkansas,5125,849432.0
+Saline,Illinois,17165,322679.0
+Saline,Kansas,20169,176328.0
+Saline,Missouri,29195,0.0
+Salt Lake,Utah,49035,4341008.0
+Saluda,South Carolina,45081,202513.0
+Sampson,North Carolina,37163,6034247.0
+San Augustine,Texas,48405,1126.0
+San Benito,California,6069,125367.0
+San Bernardino,California,6071,13800877.0
+San Diego,California,6073,15620382.0
+San Francisco,California,6075,1324706.0
+San Jacinto,Texas,48407,470554.0
+San Joaquin,California,6077,1086761.0
+San Juan,Colorado,8111,1178.0
+San Juan,New Mexico,35045,9.0
+San Juan,Utah,49037,34158.0
+San Juan,Washington,53055,115849.0
+San Luis Obispo,California,6079,917827.0
+San Mateo,California,6081,1735007.0
+San Miguel,Colorado,8113,0.0
+San Miguel,New Mexico,35047,77375.0
+San Patricio,Texas,48409,556603.0
+San Saba,Texas,48411,68009.0
+Sanborn,South Dakota,46111,595.0
+Sanders,Montana,30089,58625.0
+Sandoval,New Mexico,35043,544718.0
+Sandusky,Ohio,39143,205965.0
+Sangamon,Illinois,17167,218503.0
+Sanilac,Michigan,26151,2915004.0
+Sanpete,Utah,49039,105712.0
+Santa Barbara,California,6083,3872050.0
+Santa Clara,California,6085,3543553.0
+Santa Cruz,Arizona,4023,123237.0
+Santa Cruz,California,6087,1414461.0
+Santa Fe,New Mexico,35049,667945.0
+Santa Rosa,Florida,12113,748853.0
+Sarasota,Florida,12115,1664243.0
+Saratoga,New York,36091,4430708.0
+Sargent,North Dakota,38081,31883.0
+Sarpy,Nebraska,31153,525983.0
+Sauk,Wisconsin,55111,269359.0
+Saunders,Nebraska,31155,487835.0
+Sawyer,Wisconsin,55113,109033.0
+Schenectady,New York,36093,1296204.0
+Schleicher,Texas,48413,48755.0
+Schley,Georgia,13249,138528.0
+Schoharie,New York,36095,537797.0
+Schoolcraft,Michigan,26153,28365.0
+Schuyler,Illinois,17169,20910.0
+Schuyler,Missouri,29197,0.0
+Schuyler,New York,36097,797501.0
+Schuylkill,Pennsylvania,42107,976919.0
+Scioto,Ohio,39145,1136052.0
+Scotland,Missouri,29199,451.0
+Scotland,North Carolina,37165,3348386.0
+Scott,Arkansas,5127,36121.0
+Scott,Illinois,17171,148009.0
+Scott,Indiana,18143,287230.0
+Scott,Iowa,19163,436879.0
+Scott,Kansas,20171,0.0
+Scott,Kentucky,21209,437250.0
+Scott,Minnesota,27139,262400.0
+Scott,Mississippi,28123,201829.0
+Scott,Missouri,29201,0.0
+Scott,Virginia,51169,2651719.0
+Scotts Bluff,Nebraska,31157,32442.0
+Screven,Georgia,13251,2640.0
+Scurry,Texas,48415,83774.0
+Searcy,Arkansas,5129,87870.0
+Sebastian,Arkansas,5131,521873.0
+Sedgwick,Kansas,20173,1370048.0
+Seminole,Florida,12117,1655033.0
+Seminole,Georgia,13253,1018175.0
+Seminole,Oklahoma,40133,232544.0
+Seneca,New York,36099,385828.0
+Seneca,Ohio,39147,225879.0
+Sequoyah,Oklahoma,40135,174029.0
+Sevier,Arkansas,5133,215545.0
+Sevier,Tennessee,47155,1059710.0
+Sevier,Utah,49041,67535.0
+Seward,Kansas,20175,152.0
+Seward,Nebraska,31159,1234.0
+Shackelford,Texas,48417,122853.0
+Shannon,Missouri,29203,5698.0
+Sharkey,Mississippi,28125,59899.0
+Sharp,Arkansas,5135,141145.0
+Shasta,California,6089,4416398.0
+Shawano,Wisconsin,55115,144810.0
+Shawnee,Kansas,20177,876310.0
+Sheboygan,Wisconsin,55117,964067.0
+Shelby,Alabama,1117,2237452.0
+Shelby,Illinois,17173,73187.0
+Shelby,Indiana,18145,157849.0
+Shelby,Iowa,19165,78498.0
+Shelby,Kentucky,21211,291025.0
+Shelby,Ohio,39149,66994.0
+Shelby,Tennessee,47157,10318419.0
+Shelby,Texas,48419,124940.0
+Shenandoah,Virginia,51171,473235.0
+Sherburne,Minnesota,27141,48545.0
+Sheridan,Kansas,20179,17213.0
+Sheridan,Montana,30091,134662.0
+Sheridan,Nebraska,31161,15748.0
+Sheridan,Wyoming,56033,53030.0
+Sherman,Kansas,20181,36957.0
+Sherman,Nebraska,31163,0.0
+Sherman,Oregon,41055,29044.0
+Sherman,Texas,48421,41174.0
+Shiawassee,Michigan,26155,643622.0
+Shoshone,Idaho,16079,170290.0
+Sibley,Minnesota,27143,30929.0
+Sierra,California,6091,60625.0
+Sierra,New Mexico,35051,656.0
+Simpson,Kentucky,21213,49673.0
+Simpson,Mississippi,28127,257437.0
+Sioux,Iowa,19167,52082.0
+Sioux,Nebraska,31165,0.0
+Sioux,North Dakota,38085,0.0
+Siskiyou,California,6093,384611.0
+Skagit,Washington,53057,1554389.0
+Slope,North Dakota,38087,0.0
+Smith,Mississippi,28129,141855.0
+Smith,Tennessee,47159,177302.0
+Smith,Texas,48423,1645316.0
+Smyth,Virginia,51173,796400.0
+Snohomish,Washington,53061,61.0
+Snyder,Pennsylvania,42109,427996.0
+Socorro,New Mexico,35053,2377.0
+Solano,California,6095,1153504.0
+Somerset,Maine,23025,2113265.0
+Somerset,Maryland,24039,199058.0
+Somerset,New Jersey,34035,8284528.0
+Somerset,Pennsylvania,42111,467733.0
+Somervell,Texas,48425,32084.0
+Sonoma,California,6097,1614132.0
+Southampton,Virginia,51175,184086.0
+Southeast Fairbanks,Alaska,2240,138867.0
+Spalding,Georgia,13255,153274.0
+Spartanburg,South Carolina,45083,6242515.0
+Spencer,Indiana,18147,158094.0
+Spencer,Kentucky,21215,130169.0
+Spokane,Washington,53063,628000.0
+Spotsylvania,Virginia,51177,2376456.0
+St. Bernard,Louisiana,22087,959319.0
+St. Charles,Louisiana,22089,701272.0
+St. Charles,Missouri,29183,779681.0
+St. Clair,Alabama,1115,1211784.0
+St. Clair,Illinois,17163,3050796.0
+St. Clair,Michigan,26147,3826928.0
+St. Clair,Missouri,29185,41572.0
+St. Croix,Wisconsin,55109,207059.0
+St. Francis,Arkansas,5123,1151516.0
+St. Francois,Missouri,29187,136984.0
+St. Helena,Louisiana,22091,342268.0
+St. James,Louisiana,22093,302995.0
+St. John the Baptist,Louisiana,22095,565425.0
+St. Johns,Florida,12109,725298.0
+St. Joseph,Indiana,18141,2362262.0
+St. Joseph,Michigan,26149,652041.0
+St. Landry,Louisiana,22097,652859.0
+St. Lawrence,New York,36089,1582332.0
+St. Louis,Minnesota,27137,2794245.0
+St. Louis,Missouri,29189,6829241.0
+St. Louis,Missouri,29510,1275416.0
+St. Lucie,Florida,12111,743367.0
+St. Martin,Louisiana,22099,327558.0
+St. Mary,Louisiana,22101,276074.0
+St. Mary's,Maryland,24037,1587267.0
+St. Tammany,Louisiana,22103,1540296.0
+Stafford,Kansas,20185,41327.0
+Stafford,Virginia,51179,5048570.0
+Stanislaus,California,6099,161443.0
+Stanly,North Carolina,37167,1605886.0
+Stark,Illinois,17175,138381.0
+Stark,North Dakota,38089,66175.0
+Stark,Ohio,39151,2621056.0
+Starke,Indiana,18149,51044.0
+Starr,Texas,48427,430585.0
+Staunton,Virginia,51790,909232.0
+Ste. Genevieve,Missouri,29186,118082.0
+Stearns,Minnesota,27145,337079.0
+Steele,Minnesota,27147,29521.0
+Stephens,Georgia,13257,116012.0
+Stephens,Oklahoma,40137,97426.0
+Stephens,Texas,48429,270801.0
+Stephenson,Illinois,17177,148110.0
+Sterling,Texas,48431,8872.0
+Steuben,Indiana,18151,233944.0
+Steuben,New York,36101,2177415.0
+Stevens,Washington,53065,1050194.0
+Stewart,Georgia,13259,453946.0
+Stewart,Tennessee,47161,188168.0
+Stoddard,Missouri,29207,63300.0
+Stokes,North Carolina,37169,2036347.0
+Stone,Arkansas,5137,156678.0
+Stone,Mississippi,28131,150263.0
+Stone,Missouri,29209,61097.0
+Stonewall,Texas,48433,11945.0
+Storey,Nevada,32029,20069.0
+Story,Iowa,19169,128078.0
+Strafford,New Hampshire,33017,1012366.0
+Stutsman,North Dakota,38093,12230.0
+Sublette,Wyoming,56035,206051.0
+Suffolk,Massachusetts,25025,4055568.0
+Suffolk,New York,36103,5903518.0
+Suffolk,Virginia,51800,974247.0
+Sullivan,Indiana,18153,131320.0
+Sullivan,Missouri,29211,379.0
+Sullivan,New Hampshire,33019,1452963.0
+Sullivan,New York,36105,13415133.0
+Sullivan,Pennsylvania,42113,185868.0
+Sullivan,Tennessee,47163,2743487.0
+Summers,West Virginia,54089,747462.0
+Summit,Colorado,8117,894566.0
+Summit,Ohio,39153,2244462.0
+Summit,Utah,49043,369343.0
+Sumner,Kansas,20191,13748.0
+Sumner,Tennessee,47165,409330.0
+Sumter,Alabama,1119,114432.0
+Sumter,Florida,12119,369203.0
+Sumter,Georgia,13261,2139287.0
+Sumter,South Carolina,45085,1386932.0
+Sunflower,Mississippi,28133,228505.0
+Surry,North Carolina,37171,1093451.0
+Surry,Virginia,51181,160129.0
+Susquehanna,Pennsylvania,42115,1034150.0
+Sussex,Delaware,10005,719432.0
+Sussex,New Jersey,34037,14216636.0
+Sussex,Virginia,51183,168868.0
+Sutter,California,6101,144437.0
+Sutton,Texas,48435,76914.0
+Suwannee,Florida,12121,833806.0
+Swain,North Carolina,37173,394632.0
+Sweetwater,Wyoming,56037,179715.0
+Swisher,Texas,48437,4245.0
+Switzerland,Indiana,18155,13940.0
+Talbot,Georgia,13263,86041.0
+Talbot,Maryland,24041,72607.0
+Taliaferro,Georgia,13265,51858.0
+Talladega,Alabama,1121,889947.0
+Tallahatchie,Mississippi,28135,211317.0
+Tallapoosa,Alabama,1123,483261.0
+Tama,Iowa,19171,87351.0
+Taney,Missouri,29213,150828.0
+Tangipahoa,Louisiana,22105,2396364.0
+Tarrant,Texas,48439,9115967.0
+Tate,Mississippi,28137,104180.0
+Tattnall,Georgia,13267,350258.0
+Taylor,Florida,12123,302855.0
+Taylor,Georgia,13269,210957.0
+Taylor,Iowa,19173,12990.0
+Taylor,Kentucky,21217,14240.0
+Taylor,Texas,48441,500635.0
+Taylor,West Virginia,54091,294684.0
+Taylor,Wisconsin,55119,16708.0
+Tazewell,Illinois,17179,433100.0
+Tazewell,Virginia,51185,943758.0
+Tehama,California,6103,743470.0
+Telfair,Georgia,13271,506187.0
+Teller,Colorado,8119,62789.0
+Tensas,Louisiana,22107,535638.0
+Terrebonne,Louisiana,22109,923856.0
+Terrell,Georgia,13273,1532042.0
+Terrell,Texas,48443,45425.0
+Terry,Texas,48445,22571.0
+Teton,Idaho,16081,95701.0
+Teton,Wyoming,56039,4348.0
+Texas,Missouri,29215,40488.0
+Texas,Oklahoma,40139,177898.0
+Thomas,Georgia,13275,2011589.0
+Thomas,Kansas,20193,56081.0
+Throckmorton,Texas,48447,28810.0
+Thurston,Nebraska,31173,11.0
+Thurston,Washington,53067,2047038.0
+Tift,Georgia,13277,1233192.0
+Tillamook,Oregon,41057,5987.0
+Tillman,Oklahoma,40141,174544.0
+Tioga,New York,36107,686689.0
+Tioga,Pennsylvania,42117,629091.0
+Tippecanoe,Indiana,18157,1333009.0
+Tipton,Indiana,18159,97219.0
+Tipton,Tennessee,47167,601054.0
+Titus,Texas,48449,397608.0
+Todd,Kentucky,21219,128104.0
+Todd,Minnesota,27153,215260.0
+Tolland,Connecticut,9013,1667324.0
+Tom Green,Texas,48451,428653.0
+Tompkins,New York,36109,700847.0
+Tooele,Utah,49045,327620.0
+Toombs,Georgia,13279,339846.0
+Torrance,New Mexico,35057,98382.0
+Traill,North Dakota,38097,27946.0
+Transylvania,North Carolina,37175,2102928.0
+Travis,Texas,48453,3568370.0
+Trego,Kansas,20195,16032.0
+Trempealeau,Wisconsin,55121,31612.0
+Treutlen,Georgia,13283,36234.0
+Trigg,Kentucky,21221,218731.0
+Trimble,Kentucky,21223,140513.0
+Trinity,California,6105,24545.0
+Trinity,Texas,48455,432049.0
+Troup,Georgia,13285,106103.0
+Trousdale,Tennessee,47169,19292.0
+Trumbull,Ohio,39155,1984106.0
+Tucker,West Virginia,54093,133985.0
+Tulare,California,6107,1458176.0
+Tulsa,Oklahoma,40143,2070244.0
+Tunica,Mississippi,28143,180412.0
+Tuolumne,California,6109,275875.0
+Turner,Georgia,13287,998964.0
+Turner,South Dakota,46125,12750.0
+Tuscaloosa,Alabama,1125,2119203.0
+Tuscarawas,Ohio,39157,760378.0
+Tuscola,Michigan,26157,1443991.0
+Twiggs,Georgia,13289,95615.0
+Twin Falls,Idaho,16083,285924.0
+Tyler,Texas,48457,322173.0
+Tyler,West Virginia,54095,312914.0
+Tyrrell,North Carolina,37177,33562.0
+Uinta,Wyoming,56041,40252.0
+Uintah,Utah,49047,46899.0
+Ulster,New York,36111,8675815.0
+Umatilla,Oregon,41059,642231.0
+Union,Arkansas,5139,972165.0
+Union,Florida,12125,70379.0
+Union,Illinois,17181,151518.0
+Union,Indiana,18161,38047.0
+Union,Iowa,19175,72416.0
+Union,Kentucky,21225,334060.0
+Union,Louisiana,22111,146772.0
+Union,Mississippi,28145,53933.0
+Union,New Jersey,34039,8351360.0
+Union,New Mexico,35059,41578.0
+Union,North Carolina,37179,2435691.0
+Union,Ohio,39159,166288.0
+Union,Oregon,41061,22924.0
+Union,Pennsylvania,42119,208161.0
+Union,South Carolina,45087,64252.0
+Union,South Dakota,46127,0.0
+Union,Tennessee,47173,426068.0
+Upshur,Texas,48459,255231.0
+Upshur,West Virginia,54097,348031.0
+Upson,Georgia,13293,139357.0
+Upton,Texas,48461,143676.0
+Utah,Utah,49049,894535.0
+Uvalde,Texas,48463,312198.0
+Val Verde,Texas,48465,360159.0
+Valdez-Cordova,Alaska,2261,580.0
+Valencia,New Mexico,35061,840510.0
+Valley,Idaho,16085,140555.0
+Van Buren,Arkansas,5141,98.0
+Van Buren,Iowa,19177,77795.0
+Van Buren,Michigan,26159,1316394.0
+Van Wert,Ohio,39161,89123.0
+Van Zandt,Texas,48467,585092.0
+Vance,North Carolina,37181,1945027.0
+Vanderburgh,Indiana,18163,2472177.0
+Venango,Pennsylvania,42121,498615.0
+Ventura,California,6111,8551954.0
+Vermilion,Illinois,17183,321397.0
+Vermilion,Louisiana,22113,251475.0
+Vermillion,Indiana,18165,177559.0
+Vernon,Louisiana,22115,380570.0
+Vernon,Missouri,29217,29455.0
+Vernon,Wisconsin,55123,107479.0
+Victoria,Texas,48469,367914.0
+Vigo,Indiana,18167,543425.0
+Vilas,Wisconsin,55125,420028.0
+Vinton,Ohio,39163,330634.0
+Virginia Beach,Virginia,51810,8114640.0
+Volusia,Florida,12127,1778104.0
+Wabash,Illinois,17185,6303.0
+Wabash,Indiana,18169,144415.0
+Wabasha,Minnesota,27157,226443.0
+Wabaunsee,Kansas,20197,44580.0
+Wadena,Minnesota,27159,13553.0
+Wagoner,Oklahoma,40145,267736.0
+Wake,North Carolina,37183,11729488.0
+Wakulla,Florida,12129,4730098.0
+Waldo,Maine,23027,1023757.0
+Walker,Alabama,1127,822247.0
+Walker,Georgia,13295,349110.0
+Walker,Texas,48471,676641.0
+Walla Walla,Washington,53071,410065.0
+Wallace,Kansas,20199,44981.0
+Waller,Texas,48473,244056.0
+Wallowa,Oregon,41063,52226.0
+Walthall,Mississippi,28147,162640.0
+Walton,Florida,12131,2136154.0
+Walton,Georgia,13297,428105.0
+Walworth,South Dakota,46129,11226.0
+Walworth,Wisconsin,55127,387402.0
+Wapello,Iowa,19179,199814.0
+Ward,North Dakota,38101,60860.0
+Ward,Texas,48475,305516.0
+Ware,Georgia,13299,186321.0
+Warren,Georgia,13301,133749.0
+Warren,Illinois,17187,74309.0
+Warren,Indiana,18171,24779.0
+Warren,Iowa,19181,239382.0
+Warren,Kentucky,21227,418782.0
+Warren,Mississippi,28149,797344.0
+Warren,Missouri,29219,357568.0
+Warren,New Jersey,34041,8438476.0
+Warren,New York,36113,4339199.0
+Warren,North Carolina,37185,610009.0
+Warren,Ohio,39165,1332699.0
+Warren,Pennsylvania,42123,638557.0
+Warren,Tennessee,47177,21.0
+Warren,Virginia,51187,678035.0
+Warrick,Indiana,18173,3588923.0
+Wasatch,Utah,49051,41098.0
+Wasco,Oregon,41065,3157.0
+Waseca,Minnesota,27161,177936.0
+Washakie,Wyoming,56043,18117.0
+Washburn,Wisconsin,55129,13965.0
+Washington,Alabama,1129,36340.0
+Washington,Arkansas,5143,1314614.0
+Washington,Colorado,8121,2664.0
+Washington,Florida,12133,6078475.0
+Washington,Georgia,13303,670447.0
+Washington,Idaho,16087,30268.0
+Washington,Illinois,17189,361648.0
+Washington,Indiana,18175,680424.0
+Washington,Iowa,19183,262232.0
+Washington,Kansas,20201,4087.0
+Washington,Kentucky,21229,202611.0
+Washington,Louisiana,22117,524254.0
+Washington,Maine,23029,934674.0
+Washington,Maryland,24043,789362.0
+Washington,Minnesota,27163,1358990.0
+Washington,Mississippi,28151,487522.0
+Washington,Missouri,29221,91911.0
+Washington,Nebraska,31177,337569.0
+Washington,New York,36115,1855908.0
+Washington,North Carolina,37187,147744.0
+Washington,Ohio,39167,846357.0
+Washington,Oklahoma,40147,341177.0
+Washington,Oregon,41067,1616395.0
+Washington,Pennsylvania,42125,1883050.0
+Washington,Rhode Island,44009,5941732.0
+Washington,Tennessee,47179,26006.0
+Washington,Texas,48477,135471.0
+Washington,Utah,49053,475744.0
+Washington,Vermont,50023,1572019.0
+Washington,Virginia,51191,1248648.0
+Washington,Wisconsin,55131,667183.0
+Washita,Oklahoma,40149,302640.0
+Washoe,Nevada,32031,1955420.0
+Washtenaw,Michigan,26161,8045387.0
+Watauga,North Carolina,37189,339599.0
+Watonwan,Minnesota,27165,113.0
+Waukesha,Wisconsin,55133,1294337.0
+Waupaca,Wisconsin,55135,230961.0
+Waushara,Wisconsin,55137,192579.0
+Wayne,Georgia,13305,188547.0
+Wayne,Illinois,17191,9964.0
+Wayne,Indiana,18177,123583.0
+Wayne,Iowa,19185,47448.0
+Wayne,Michigan,26163,61003099.0
+Wayne,Mississippi,28153,107506.0
+Wayne,New York,36117,1213980.0
+Wayne,North Carolina,37191,3976025.0
+Wayne,Ohio,39169,928985.0
+Wayne,Pennsylvania,42127,5641975.0
+Wayne,West Virginia,54099,2342786.0
+Waynesboro,Virginia,51820,2055107.0
+Weakley,Tennessee,47183,365.0
+Webb,Texas,48479,1312417.0
+Weber,Utah,49057,1182360.0
+Webster,Georgia,13307,347245.0
+Webster,Iowa,19187,115659.0
+Webster,Kentucky,21233,105862.0
+Webster,Louisiana,22119,434304.0
+Webster,Mississippi,28155,34861.0
+Webster,Missouri,29225,20792.0
+Webster,West Virginia,54101,837569.0
+Weld,Colorado,8123,800794.0
+Wells,Indiana,18179,36174.0
+West Baton Rouge,Louisiana,22121,220061.0
+West Carroll,Louisiana,22123,34388.0
+West Feliciana,Louisiana,22125,142903.0
+Westchester,New York,36119,40725006.0
+Westmoreland,Pennsylvania,42129,2694451.0
+Westmoreland,Virginia,51193,783352.0
+Weston,Wyoming,56045,461.0
+Wetzel,West Virginia,54103,336487.0
+Wexford,Michigan,26165,1250025.0
+Wharton,Texas,48481,205879.0
+Whatcom,Washington,53073,1463943.0
+Wheeler,Georgia,13309,117012.0
+Wheeler,Texas,48483,92828.0
+White,Arkansas,5145,621504.0
+White,Georgia,13311,281368.0
+White,Illinois,17193,12960.0
+White,Indiana,18181,63192.0
+Whiteside,Illinois,17195,190134.0
+Whitfield,Georgia,13313,383045.0
+Whitley,Indiana,18183,22312.0
+Whitley,Kentucky,21235,24437.0
+Whitman,Washington,53075,113845.0
+Wibaux,Montana,30109,8393.0
+Wichita,Texas,48485,826241.0
+Wicomico,Maryland,24045,498679.0
+Wilbarger,Texas,48487,145986.0
+Wilcox,Alabama,1131,397478.0
+Wilcox,Georgia,13315,694963.0
+Wilkes,Georgia,13317,174985.0
+Wilkes,North Carolina,37193,1236561.0
+Wilkin,Minnesota,27167,22588.0
+Wilkinson,Georgia,13319,89394.0
+Wilkinson,Mississippi,28157,168929.0
+Will,Illinois,17197,2609324.0
+Willacy,Texas,48489,203083.0
+Williams,North Dakota,38105,112488.0
+Williams,Ohio,39171,115546.0
+Williamsburg,South Carolina,45089,347115.0
+Williamsburg,Virginia,51830,460517.0
+Williamson,Illinois,17199,720428.0
+Williamson,Tennessee,47187,404623.0
+Williamson,Texas,48491,2398610.0
+Wilson,Kansas,20205,40435.0
+Wilson,North Carolina,37195,94858.0
+Wilson,Tennessee,47189,287528.0
+Wilson,Texas,48493,37723.0
+Winchester,Virginia,51840,95242.0
+Windham,Connecticut,9015,2965684.0
+Windham,Vermont,50025,4304417.0
+Windsor,Vermont,50027,4122091.0
+Winkler,Texas,48495,78246.0
+Winn,Louisiana,22127,288127.0
+Winnebago,Illinois,17201,1020304.0
+Winnebago,Iowa,19189,86796.0
+Winnebago,Wisconsin,55139,330866.0
+Winneshiek,Iowa,19191,90747.0
+Winona,Minnesota,27169,93200.0
+Winston,Alabama,1133,380942.0
+Winston,Mississippi,28159,86.0
+Wirt,West Virginia,54105,245748.0
+Wise,Texas,48497,633989.0
+Wise,Virginia,51195,557000.0
+Wood,Ohio,39173,339585.0
+Wood,Texas,48499,233879.0
+Wood,West Virginia,54107,739623.0
+Wood,Wisconsin,55141,99805.0
+Woodbury,Iowa,19193,216462.0
+Woodford,Illinois,17203,103804.0
+Woodford,Kentucky,21239,3382131.0
+Woodruff,Arkansas,5147,73028.0
+Woods,Oklahoma,40151,13118.0
+Woodson,Kansas,20207,83420.0
+Woodward,Oklahoma,40153,446811.0
+Worcester,Maryland,24047,550987.0
+Worcester,Massachusetts,25027,9697235.0
+Worth,Georgia,13321,353588.0
+Worth,Iowa,19195,81820.0
+Worth,Missouri,29227,11865.0
+Wright,Iowa,19197,53850.0
+Wright,Minnesota,27171,220234.0
+Wright,Missouri,29229,1210.0
+Wyandot,Ohio,39175,149670.0
+Wyandotte,Kansas,20209,882433.0
+Wyoming,New York,36121,551153.0
+Wyoming,Pennsylvania,42131,596650.0
+Wyoming,West Virginia,54109,807098.0
+Wythe,Virginia,51197,2797447.0
+Yadkin,North Carolina,37197,399190.0
+Yakima,Washington,53077,1129471.0
+Yalobusha,Mississippi,28161,46475.0
+Yamhill,Oregon,41071,254754.0
+Yancey,North Carolina,37199,34890.0
+Yates,New York,36123,590553.0
+Yavapai,Arizona,4025,1839667.0
+Yazoo,Mississippi,28163,48413.0
+Yell,Arkansas,5149,314025.0
+Yellow Medicine,Minnesota,27173,26957.0
+Yoakum,Texas,48501,30979.0
+Yolo,California,6113,675838.0
+York,Maine,23031,4690403.0
+York,Nebraska,31185,14238.0
+York,Pennsylvania,42133,3028993.0
+York,South Carolina,45091,1130324.0
+York,Virginia,51199,2521878.0
+Young,Texas,48503,108888.0
+Yuba,California,6115,280269.0
+Yukon-Koyukuk,Alaska,2290,6555.0
+Yuma,Arizona,4027,749375.0
+Yuma,Colorado,8125,0.0
+Zapata,Texas,48505,86062.0
+Zavala,Texas,48507,119301.0
+Ziebach,South Dakota,46137,1041.0
